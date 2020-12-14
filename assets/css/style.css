@@ -4,4 +4,40 @@
 
 .lp-navbar {
     background-color: #3bbfbf;
+    margin: 0;
+    padding-bottom: 0;
 }
+
+.lp-navbar-brand {
+    padding: 0;
+} 
+/*
+.lp-navbar-toggler {
+}
+*/
+
+.lp-nav-item span {
+    color: #73185b;
+    font-size: 24px;
+    font-family: 'Open Sans', 'sans-serif';
+    font-weight: 500;
+}
+
+.lp-nav-item span:hover {
+    color: #d6d3c1;
+}
+
+.lp-social-links i {
+    font-size: 2em;
+    color:#73185b;
+}
+
+.lp-social-links i:hover {
+    color: #d6d3c1;
+}
+
+#logo {
+    width:140px;
+    height:100px;
+}
+
