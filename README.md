@@ -52,6 +52,7 @@
 :pushpin:
   ## Design
    ### Colour Scheme
+   ![Color Pallete](assets/images/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
   
    ### Typography
     *
