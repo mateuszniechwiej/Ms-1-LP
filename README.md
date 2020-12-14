@@ -42,8 +42,14 @@
   * information about the times opening changes(if they occur)
   * to see new images or videos of the places and products.
 :pushpin:
-  ## Design
+## Design
    ### Colour Scheme
+   * Colours used in the project were picked with the main focus on 2 colours:
+     * purple (which is the main colour for the brand) as "Lavender field"("Lawendowe Pole") is the name of the company and they use colours associated with their name.
+     * turquoise as the company use this colour together with purple in the social media adverts it looks well with companies associated with sweets, desserts and ice creams.
+*  *Adobe Color* was used to create the colour palette
+  :point_down:
+
    ![Color Pallete](assets/images/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
   
    ### Typography
@@ -66,7 +72,8 @@
 * a page for filing in a "Form"  for customers to be able to contact the company. (booking, coments)
 * a page with locations and small icons with descriptions on times and services of each place.With link directions
 * a link to download and view menu in pdf opened in new tab.
-* moving carousel photo gallery.  
+* moving carousel photo gallery.
+    
 :pushpin: 
 ## Future Features:
 * payment options for pre-ordered products for collections.
