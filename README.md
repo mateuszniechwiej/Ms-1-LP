@@ -1,7 +1,7 @@
 # ![logo](assets/images/logo.jpg)
 # About this Website                                               
 ### "Lawendowe Pole"(en-"Lavender Field") is an existing small family run company producing the own recipe full natural ice-creams and deserts with the main restaurant and two small ice cream shops located outside Kraków in local tourist places.
-### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework.The main goal is that visitors will find an easy navigated, intuitive and well visiual designed website with all information about product, locations and services been offered.
+### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework.The main goal is that users will find an easy navigated, intuitive and well visiual designed website with all information about products, locations and services been provided.
 #
 # Table of Contest
 * [User Experience(UX)](#UX)
@@ -46,13 +46,13 @@
    ### Colour Scheme
    * Colours used in the project were picked with the main focus on 2 colours:
      * purple (which is the main colour for the brand) as "Lavender field"("Lawendowe Pole") is the name of the company and they use colours associated with their name.
-     * turquoise as the company use this colour together with purple in the social media adverts it looks well with companies associated with sweets, desserts and ice creams.
+     * turquoise as the company use this colour together with purple in the social media adverts and it looks well for companies associated with sweets, desserts and ice creams.
 *  *Adobe Color* was used to create the colour palette
   :point_down:
 
    ![Color Pallete](assets/images/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
   
-   ### Typography
+### Typography
    :black_nib:
    * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font. This font is elegant and also modern. It offers an excellent reading experience.
    *  The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimized for body text and often used with **Open Sans**.
