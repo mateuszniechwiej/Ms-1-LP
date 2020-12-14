@@ -1,4 +1,4 @@
-#
+# ![logo](assets/images/logo.jpg)
 # About this Website
                                                     
 
