@@ -55,7 +55,9 @@
    ![Color Pallete](assets/images/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
   
    ### Typography
-    *
+   :black_nib:
+   * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font.This font is elegant and also modern. It offers an excellent reading experience.
+   *  The secondary font used for this website is _Libre Baskerville_ with *sans-serif" as a fallback font. It's a web font optimized for body text and offten used with **Open Sans**.
    ### Imagery
     *
    ### Wireframes
