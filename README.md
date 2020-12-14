@@ -1,7 +1,5 @@
 # ![logo](assets/images/logo.jpg)
-# About this Website
-                                                    
-
+# About this Website                                               
 ### "Lawendowe Pole"(en-"Lavender Field") is an existing small family run company producing the own recipe full natural ice-creams and deserts with the main restaurant and two small ice cream shops located outside Kraków in local tourist places.
 ### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework.The main goal is that visitors will find an easy navigated, intuitive and well visiual designed website with all information about product, locations and services been offered.
 #
@@ -23,11 +21,6 @@
 * [Testing](#Testing)
 * [Deployment](#Deployment)
 * [Credits](#Credits)
-  
-
-
-  
-
 #
 # UX    
 :pushpin: 
@@ -48,7 +41,6 @@
   * Find about any new products the company is offering
   * information about the times opening changes(if they occur)
   * to see new images or videos of the places and products.
-
 :pushpin:
   ## Design
    ### Colour Scheme
@@ -56,13 +48,15 @@
   
    ### Typography
    :black_nib:
-   * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font.This font is elegant and also modern. It offers an excellent reading experience.
-   *  The secondary font used for this website is _Libre Baskerville_ with *sans-serif" as a fallback font. It's a web font optimized for body text and offten used with **Open Sans**.
-   ### Imagery
-    *
-   ### Wireframes
+   * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font. This font is elegant and also modern. It offers an excellent reading experience.
+   *  The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimized for body text and often used with **Open Sans**.
+### Imagery
+#### As this website is for an ice cream company, images play the most important role and are the main content of this project.
+* There is a logo image(provided by the owner of the company) appearing on each of the HTML pages in the navbar and will be displayed through all the devices(mobile, tablet and desktop).
+* On the landing page, there is an image carousel with 3 photos of the product with caption displayed on larger screens(images were resized and optimized) for better user experience and website performance.
+* There is also a separate *__Gallery__* page with images of the products and pictures from the Café and company ice cream shops(resized into square images and optimized) 
+### Wireframes
 :point_right: [Wireframes for mobile,tablet and desktop](https://xd.adobe.com/view/90708c4b-fc61-4ca3-95a0-3f497bdf5165-c523/)
-
 #
 # Features 
 :pushpin:
@@ -72,16 +66,13 @@
 * a page for filing in a "Form"  for customers to be able to contact the company. (booking, coments)
 * a page with locations and small icons with descriptions on times and services of each place.With link directions
 * a link to download and view menu in pdf opened in new tab.
-* moving carousel photo gallery.
-  
+* moving carousel photo gallery.  
 :pushpin: 
 ## Future Features:
 * payment options for pre-ordered products for collections.
-* polish language version
-  
+* polish language version  
 #
 # Technologies Used
-
 :pushpin:
 ## Languages Used
   *  [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -106,15 +97,11 @@
   * [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website , and to ensure colour contrast
     * [Lighthouse](https://developers.google.com/web/tools/lighthouse) - as a part of chrome dev tool was used to improve the quality of the web page.
   * [Favicon](https://favicon.io/) - to creat favicon for this Website
-  
-
-
 #
 # Testing 
 #
 # Deployment 
 #
 # Credits 
-
 * TripAdvisor icon  used in my wireframe comes from fontawesome.com
 * Facebook icon used in my wireframe comes from material.io
