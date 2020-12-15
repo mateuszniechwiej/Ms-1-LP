@@ -93,7 +93,7 @@
 }
 .lp-about span {
     color: #000;
-    background-color: #fafafa;
+    background-color: #fff;
     padding:5px;
     border-radius: 3%;
 }
@@ -104,3 +104,28 @@
 }
 
 /*--------------------------------Contact Us*/
+
+.lp-contact {
+    background-color: #d6d3c1;
+}
+
+.lp-contact legend {
+    text-align: center;    
+}
+
+.lp-contact legend span {
+    background-color: #fff;
+    padding:5px;
+    border-radius: 3%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.lp-group span {
+    background-color:#fff;
+    padding: 5px;
+    border-radius: 3%;
+    font-family:'Libre Baskerville', sans-serif;
+    font-weight: 400;
+}
