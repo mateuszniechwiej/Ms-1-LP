@@ -143,3 +143,16 @@
     background-color: #73185b;
     color: #fff;
 }
+
+.lp-contact-link a {
+    color:#000;
+    font-family:'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.lp-contact-link a:hover {
+    color: #73185b;
+    background-color: transparent;
+    text-decoration: none;
+}
