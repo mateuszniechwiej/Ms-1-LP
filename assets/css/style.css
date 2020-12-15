@@ -32,6 +32,8 @@
     color: #d6d3c1;
 }
 
+/*--------------------------------social links and logo*/
+
 .lp-social-links i {
     font-size: 2em;
     color:#73185b;
@@ -155,4 +157,15 @@
     color: #73185b;
     background-color: transparent;
     text-decoration: none;
+}
+
+/*--------------------------------Footer*/
+
+.lp-footer {
+    background-color: #3bbfbf;
+}
+
+.lp-footer p {
+    font-family:'Libre Baskerville', sans-serif;
+    color: #73185b; 
 }
