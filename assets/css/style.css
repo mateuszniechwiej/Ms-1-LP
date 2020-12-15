@@ -6,6 +6,11 @@
     background-color: #3bbfbf;
     margin: 0;
     padding-bottom: 0;
+    position: relative;
+    z-index: 1;
+    -moz-box-shadow: 0 8px 6px -5px rgba(0, 0,0,0.75);
+    -webkit-box-shadow: 0 8px 6px -5px rgba(0, 0,0,0.75);
+    box-shadow: 0 8px 6px -5px rgba(0, 0,0,0.75);
 }
 
 .lp-navbar-brand {
