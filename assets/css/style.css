@@ -163,9 +163,13 @@
 
 .lp-footer {
     background-color: #3bbfbf;
+    box-shadow: 0 -8px 5px -5px rgb(0,0,0,0.75);
+    -moz-box-shadow: 0 -8px 6px -5px rgba(0, 0,0,0.75);
+    -webkit-box-shadow: 0 -8px 6px -5px rgba(0, 0,0,0.75);
 }
 
 .lp-footer p {
     font-family:'Libre Baskerville', sans-serif;
-    color: #73185b; 
+    color: #73185b;
+    margin-bottom: 8px; 
 }
