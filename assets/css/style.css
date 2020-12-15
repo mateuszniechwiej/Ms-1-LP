@@ -73,3 +73,30 @@
 .lp-about-container {
     background:#3bbfbf ;
 }
+
+.lp-about h2 {
+    font-family:'Open Sans',sans-serif;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    
+}
+
+.lp-about p {
+    font-family:'Libre Baskerville', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.lp-list li {
+    font-family:'Libre Baskerville', sans-serif;
+    font-size: 16px; 
+}
+.lp-about span {
+    color: #000;
+    background-color: #fafafa;
+    padding:5px;
+    border-radius: 3%;
+    
+    
+
+}
