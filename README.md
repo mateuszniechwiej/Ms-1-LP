@@ -1,8 +1,8 @@
 # ![logo](assets/images/logo.jpg)
 # About this Website                                               
-### "Lawendowe Pole"(en-"Lavender Field") is an existing small family run company producing the own recipe full natural ice-creams and deserts with the main restaurant and two small ice cream shops located outside Kraków in local tourist places.
-### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework.The main goal is that users will find an easy navigated, intuitive and well visiual designed website with all information about products, locations and services been provided.
-#
+### "Lawendowe Pole"(en-"Lavender Field") is an existing small family run company producing the own recipe full natural ice-creams and deserts with the main Café and two small ice cream shops located outside Kraków in local tourist places.
+### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework.The main goal is that users will find an easy navigated, intuitive and well visiual designed website with all information about products, locations and all other services provided by the company.
+
 # Table of Contest
 * [User Experience(UX)](#UX)
   * [User Stories](#User-Stories)
@@ -41,6 +41,7 @@
   * Find about any new products the company is offering
   * information about the times opening changes(if they occur)
   * to see new images or videos of the places and products.
+  
 :pushpin:
 ## Design
    ### Colour Scheme
@@ -52,7 +53,7 @@
 
    ![Color Pallete](assets/images/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
   
-### Typography
+## Typography
    :black_nib:
    * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font. This font is elegant and also modern. It offers an excellent reading experience.
    *  The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimized for body text and often used with **Open Sans**.
@@ -104,11 +105,15 @@
   * [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website , and to ensure colour contrast
     * [Lighthouse](https://developers.google.com/web/tools/lighthouse) - as a part of chrome dev tool was used to improve the quality of the web page.
   * [Favicon](https://favicon.io/) - to creat favicon for this Website
-#
+
 # Testing 
-#
+
 # Deployment 
-#
+
 # Credits 
-* TripAdvisor icon  used in my wireframe comes from fontawesome.com
+* **_Bootstrap library_** - used to creat a responsive design, creat navbar, image carousel with captions and form.
+* To learn and creat box-shadow efect for navbar and footer :
+    * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
+    * [Stack-Overflow](https://stackoverflow.com/questions/17739108/why-doesnt-the-box-shadow-show-above-the-footer-div)
+
 * Facebook icon used in my wireframe comes from material.io
