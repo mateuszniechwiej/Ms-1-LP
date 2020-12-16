@@ -21,6 +21,11 @@
 * [Testing](#Testing)
 * [Deployment](#Deployment)
 * [Credits](#Credits)
+  * [Code](#Code)
+  * [Media](#Media)
+  
+
+
 #
 # UX    
 :pushpin: 
@@ -111,6 +116,8 @@
 # Deployment 
 
 # Credits 
+:pushpin:
+## Code
 * **_Bootstrap library_** - used to creat a responsive design, creat navbar, image carousel with captions and form.
 * To learn and creat box-shadow efect for navbar and footer :
     * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
@@ -118,4 +125,6 @@
 *  To learn how to center horizontly and verticaly video :
    *  [Stack-Overflow](https://stackoverflow.com/questions/42388989/bootstrap-4-center-vertical-and-horizontal-alignment)
 
+:pushpin:
+## Media
 * Facebook icon used in my wireframe comes from material.io
