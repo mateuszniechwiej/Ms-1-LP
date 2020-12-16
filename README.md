@@ -28,7 +28,7 @@
   
 
 
-#
+
 # UX    
 :pushpin: 
   ## User Stories
@@ -71,6 +71,8 @@
 * There is also a separate *__Gallery__* page with images of the products and pictures from the Café and company ice cream shops(resized into square images and optimized) 
 ### Wireframes
 :point_right: [Wireframes for mobile,tablet and desktop](https://xd.adobe.com/view/90708c4b-fc61-4ca3-95a0-3f497bdf5165-c523/)
+
+:point_right: [Wireframes - pdf](/assets/wireframes/wireframes.pdf)
 #
 # Features 
 :pushpin:
