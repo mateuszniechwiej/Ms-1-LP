@@ -23,6 +23,8 @@
 * [Credits](#Credits)
   * [Code](#Code)
   * [Media](#Media)
+    * [Images](#Images)
+  
   
 
 
@@ -110,6 +112,7 @@
   * [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website , and to ensure colour contrast
     * [Lighthouse](https://developers.google.com/web/tools/lighthouse) - as a part of chrome dev tool was used to improve the quality of the web page.
   * [Favicon](https://favicon.io/) - to creat favicon for this Website
+  * [material.io](material.io) - Facebook svg used in my wireframe comes from material.io
 
 # Testing 
 
@@ -118,7 +121,7 @@
 # Credits 
 :pushpin:
 ## Code
-* **_Bootstrap library_** - used to creat a responsive design, creat navbar, image carousel with captions and form.
+* [Bootstrap library](https://getbootstrap.com/) - used to creat a responsive design, creat navbar, image carousel with captions and form.
 * To learn and creat box-shadow efect for navbar and footer :
     * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
     * [Stack-Overflow](https://stackoverflow.com/questions/17739108/why-doesnt-the-box-shadow-show-above-the-footer-div)
@@ -127,4 +130,9 @@
 
 :pushpin:
 ## Media
-* Facebook icon used in my wireframe comes from material.io
+### Images
+* Business owner of "Lawendowe Pole"- Images and video(used as a gif)   
+* [Unsplash](https://unsplash.com/)  
+* [Pixabay](https://pixabay.com/)
+  
+
