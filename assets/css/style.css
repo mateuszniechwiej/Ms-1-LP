@@ -230,10 +230,17 @@
     background-color:#d6d3c1 ;
 }
 
+.lp-gallery span{
+    font-family:'libre baskerville', sans-serif;
+    font-weight: 500;
+    color: #73185b;
 
+}
 .lp-image {
     margin-bottom:15px;
     padding-left: 7.5px;
     padding-right: 7.5px;
 }
+
+
 
