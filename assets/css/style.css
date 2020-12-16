@@ -228,8 +228,12 @@
 
 .lp-image {
     margin-bottom:15px;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
 }
 
 .lp-gallery {
-    padding:15px;
+   margin-left:7.5px;
+   margin-right:7.5px;
+
 }
