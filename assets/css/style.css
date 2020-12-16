@@ -176,7 +176,7 @@
 
 /*--------------------------------Locations*/
 
-.lp-locations{
+.lp-locations {
     background: #d6d3c1;
 }
 
@@ -186,6 +186,15 @@
 
 .lp-loc-image {
     width:80%;
-    height:80%;    
+    height:80%;
+    padding-bottom: 5px;    
 }
 
+.lp-loc-social {
+    color:#73185b;
+    font-size: 3em;
+}
+
+.lp-loc-social:hover {
+    color: #bf3b9c;
+}
