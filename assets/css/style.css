@@ -197,3 +197,7 @@
 .lp-loc-social:hover {
     color: #bf3b9c;
 }
+
+.lp-table {
+    margin:0;
+}
