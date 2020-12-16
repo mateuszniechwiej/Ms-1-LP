@@ -176,11 +176,16 @@
 
 /*--------------------------------Locations*/
 
-.lp-loc-cafe {
-    background-color: #d6d3c1;
+.lp-locations{
+    background: #d6d3c1;
+}
+
+.lp-loc-castle {
+    background: #3bbfbf;
 }
 
 .lp-loc-image {
     width:80%;
     height:80%;    
 }
+
