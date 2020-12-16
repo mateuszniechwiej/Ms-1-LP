@@ -173,3 +173,14 @@
     color: #73185b;
     margin-bottom: 8px; 
 }
+
+/*--------------------------------Locations*/
+
+.lp-loc-cafe {
+    background-color: #d6d3c1;
+}
+
+.lp-loc-image {
+    width:80%;
+    height:80%;    
+}
