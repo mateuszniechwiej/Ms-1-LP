@@ -226,14 +226,16 @@
 
 /*--------------------------------Gallery*/
 
+.lp-bg-gallery {
+    background-color:#d6d3c1 ;
+}
+
+.lp-gallery-headings {
+    padding: 0;
+}
 .lp-image {
     margin-bottom:15px;
     padding-left: 7.5px;
     padding-right: 7.5px;
 }
 
-.lp-gallery {
-   margin-left:7.5px;
-   margin-right:7.5px;
-
-}
