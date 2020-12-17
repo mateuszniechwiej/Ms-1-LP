@@ -59,7 +59,7 @@
 *  *Adobe Color* was used to create the colour palette
   :point_down:
 
-   ![Color Pallete](assets/images/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
+   ![Color Pallete](assets/wireframes/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
   
 ## Typography
    :black_nib:
