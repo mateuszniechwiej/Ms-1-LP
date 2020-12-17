@@ -120,7 +120,7 @@
 
 # Testing 
 :pushpin:
-## Coulour Contrast 
+## Colour Contrast 
   * By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
     1. On home page of this project right click on the pc mouse
     2. Press - "Inspect"
