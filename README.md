@@ -66,9 +66,9 @@
    * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font. This font is elegant and also modern. It offers an excellent reading experience.
    *  The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimized for body text and often used with **Open Sans**.
 ### Imagery
-#### As this website is for an ice cream company, images play the most important role and are the main content of this project.
+#### As this website is for an ice cream company, images are a very important part of this project.
 * There is a logo image(provided by the owner of the company) appearing on each of the HTML pages in the navbar and will be displayed through all the devices(mobile, tablet and desktop).
-* On the landing page, there is an image carousel with 3 photos of the product with caption displayed on larger screens(images were resized and optimized) for better user experience and website performance.
+* On the homepage, there is an image carousel with 3 photos of the product with caption displayed on larger screens(images were resized and optimized) for better user experience and website performance.
 * There is also a separate *__Gallery__* page with images of the products and pictures from the Café and company ice cream shops(resized into square images and optimized) 
 ### Wireframes
 :point_right: [Wireframes for mobile,tablet and desktop](https://xd.adobe.com/view/90708c4b-fc61-4ca3-95a0-3f497bdf5165-c523/)
@@ -129,6 +129,7 @@
    
 * All html pages were tested and contarst was correct.
 
+in progress
 
 # Deployment 
 
@@ -148,7 +149,8 @@
 ## Media
 ### Images
 * Business owner of "Lawendowe Pole"- Images and video(used as a gif)   
-* [Unsplash](https://unsplash.com/)  
-* [Pixabay](https://pixabay.com/)
+* [Unsplash](https://unsplash.com/) - images
+* [Pixabay](https://pixabay.com/) - images
   
 
+in progress....
