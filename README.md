@@ -155,7 +155,7 @@ in progress
 ### Images
 * Business owner of "Lawendowe Pole"- Images and video(used as a gif)   
 * [Unsplash](https://unsplash.com/) - images
-* [Pixabay](https://pixabay.com/) - images
+* [Pixabay](https://pixabay.com/) - images and gif video
   
 
 in progress....
