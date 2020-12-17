@@ -104,7 +104,8 @@
   
   :pushpin:
 ## Programs and Libaries 
-  * [JPEG-OPTIMIZER](http://jpeg-optimizer.com/) - optimize the size of images used in this project
+  * [JPEG-OPTIMIZER](http://jpeg-optimizer.com/) - optimized the size of images used in this project
+  * [tinypng](https://tinypng.com/) - optimized Mockup.png for README
   * [Concpets](https://concepts.app/en/) - to creat first handrawn wireframes
   * [Adobe Xd](https://www.adobe.com/ie/products/xd/wireframing-tool.html#:~:text=Adobe%20XD%20is%20a%20powerful,all%20in%20one%20design%20tool.) - for wireframing
   * [Adobe Colour](https://color.adobe.com/create/color-wheel) - for colour palette used in this project
@@ -120,6 +121,7 @@
   * [material.io](material.io) - Facebook svg used in my wireframe comes from material.io
   * [zamar.com](https://www.zamzar.com/convert/mp4-to-webm/) - to convert mp4 to webm as fallback video file.
   * [techsini](https://techsini.com/) - To generate website Mockup for README file.
+  
 
 # Testing 
 :pushpin:
