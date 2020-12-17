@@ -122,7 +122,7 @@
 :pushpin:
 ## Colour Contrast 
   * By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
-    1. On home page of this project right click on the pc mouse
+    1. On homepage of this project right click on the pc mouse
     2. Press - "Inspect"
     3. Press - ctr+shift+c or "small box with an arrow" to inspect elements of the website.
     4. Hover over elements to see under Accessibilty->Contrast the result.
