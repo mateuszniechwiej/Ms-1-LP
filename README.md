@@ -3,6 +3,8 @@
 ### "Lawendowe Pole"(en-"Lavender Field") is an existing small family run company producing the own recipe full natural ice-creams and deserts with the main Café and two small ice cream shops located outside Kraków in local tourist places.
 ![Lawendowe Pole](assets/wireframes/Mockup.png)
 
+:globe_with_meridians: [Live website](https://mateuszniechwiej.github.io/Ms-1-LP/)
+
 ### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework.The main goal is that users will find an easy navigated, intuitive and well visiual designed website with all information about products, locations and all other services provided by the company.
 
 # Table of Contest
