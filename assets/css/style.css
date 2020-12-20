@@ -239,5 +239,10 @@
     padding-right: 7.5px;
 }
 
-
-
+.lp-arrow i {
+    font-size: 2.5rem;
+    color: #73185b;
+}.lp-arrow i:hover {
+    font-size: 2.5rem;
+    color: #bf3b9c;
+}
