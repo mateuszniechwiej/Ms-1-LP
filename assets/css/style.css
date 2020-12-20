@@ -114,7 +114,7 @@
 }
 
 .lp-contact legend span {
-    border:2px solid #73185b;
+    border:1px solid #000;
     padding:8px;
     border-radius: 3%;
     font-family: 'Open Sans', sans-serif;
@@ -124,14 +124,14 @@
 
 .lp-group span {
     padding: 5px;
-    border:2px solid #73185b;
+    border:1px solid #000;
     border-radius: 3%;
     font-family:'Libre Baskerville', sans-serif;
     font-weight: 400;
 }
 
 .lp-btn {
-    border:2px solid #73185b;
+    border:1px solid #000;
     color:#000;
     border-radius: 3%;
     font-family:'Open Sans', sans-serif;
