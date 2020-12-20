@@ -58,7 +58,7 @@
     font-family: 'Open Sans', 'sans-serif';
     font-weight: 500;
     color: #bf3b9c;
-    background-color: rgba(0,0,0,0.2) 
+    background-color: rgba(0,0,0,0.3) 
 }
 
 .lp-carusel-caption p {
@@ -187,6 +187,13 @@
     color: #73185b;
 }
 
+.lp-facillities-item{
+    background-color: #3bbfbf;
+}
+
+.lp-facillities-castle {
+    background-color: #d6d3c1;
+}
 .lp-loc-castle {
     background: #3bbfbf;
 }
@@ -240,9 +247,8 @@
 }
 
 .lp-arrow i {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: #73185b;
 }.lp-arrow i:hover {
-    font-size: 2.5rem;
     color: #bf3b9c;
 }
