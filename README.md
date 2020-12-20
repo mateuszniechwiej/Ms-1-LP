@@ -21,7 +21,7 @@
   * [Framework](#Framework)
   * [Programs and Libaries](#Programs-and-Libaries)
 * [Testing](#Testing)
-  * [Colour-Contrast](#Colour-Contrast)
+  * [Colour Contrast](#Colour-Contrast)
 * [Deployment](#Deployment)
 * [Credits](#Credits)
   * [Code](#Code)
