@@ -74,23 +74,23 @@
 
 .lp-about-container {
     background:#3bbfbf ;
+    color:#73185b
 }
 
+.lp-about h4 {
+    font-family: 'Open Sans',sans-serif;
+}
 .lp-about p {
     font-family:'Libre Baskerville', sans-serif;
-    font-size: 20px;
     font-weight: 400;
+    
 }
 
-.lp-list li {
-    font-family:'Libre Baskerville', sans-serif;
-    font-size: 16px; 
-}
-.lp-about span {
-    color: #000;
-    background-color: #fff;
-    padding:5px;
-    border-radius: 3%;
+.lp-divider {
+    width: 30px;
+    height: 2px;
+    background-color: #73185b;
+    border:0;
 }
 
 .lp-video {
