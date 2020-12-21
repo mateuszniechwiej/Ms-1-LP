@@ -23,7 +23,7 @@
   * [Framework](#Framework)
   * [Programs and Libaries](#Programs-and-Libaries)
 * [Testing](#Testing)
-  * [Css/Html Validation](#CSS/HTML-Test)
+  * [Css/Html Validation](#CSS-and-HTML-Test)
   * [Colour Contrast](#Colour-Contrast)
 * [Deployment](#Deployment)
 * [Credits](#Credits)
@@ -128,7 +128,7 @@
 
 # Testing 
 :pushpin:
-## CSS/HTML Test
+## CSS and HTML Test
 ### CSS Validator - Pass
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
