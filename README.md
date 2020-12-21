@@ -23,6 +23,7 @@
   * [Framework](#Framework)
   * [Programs and Libaries](#Programs-and-Libaries)
 * [Testing](#Testing)
+  * [Css/Html Validation](#CSS/HTML-Test)
   * [Colour Contrast](#Colour-Contrast)
 * [Deployment](#Deployment)
 * [Credits](#Credits)
@@ -127,7 +128,8 @@
 
 # Testing 
 :pushpin:
-## CSS Validator - Pass
+## CSS/HTML-Test
+### CSS Validator - Pass
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -136,12 +138,25 @@
     </a>
 </p>
 
-## HTML Validator - Test
-1.[Home page](assets/validator/validator_home.pdf)
+### HTML Validator - Test
+1. [Home page](assets/validator/validator_home.pdf)- pdf
+* 4 errors found and fixed:
+1. __inline__ attribiute - removed form *video* element
+2. __value__ on *select* element - removed from *select* element
+3. __type__ attribiute - removed from *textarea* element
+4. __bad value__ - fixed telephone number spacing on **_a_** element for **_href_** attribiute
 
-2.[Locations page](assets/validator/validator_locations.pdf)
+* 1 warning for sections 
 
-3.[Gallery page](assets/validator/validator_gallery.pdf)
+2. [Locations page](assets/validator/validator_locations.pdf)-pdf
+* 1 error found and fixed:
+  1. __br__ tag - removed from *table* 
+
+3. [Gallery page](assets/validator/validator_gallery.pdf)
+* no errors found
+
+
+:pushpin:
 ## Colour Contrast 
   * By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
     1. On homepage of this project right click on the pc mouse
