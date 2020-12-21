@@ -127,6 +127,21 @@
 
 # Testing 
 :pushpin:
+## CSS Validator - Pass
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+## HTML Validator - Test
+1.[Home page](assets/validator/validator_home.pdf)
+
+2.[Locations page](assets/validator/validator_locations.pdf)
+
+3.[Gallery page](assets/validator/validator_gallery.pdf)
 ## Colour Contrast 
   * By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
     1. On homepage of this project right click on the pc mouse
