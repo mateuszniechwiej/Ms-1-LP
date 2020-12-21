@@ -128,7 +128,7 @@
 
 # Testing 
 :pushpin:
-## CSS/HTML-Test
+## CSS/HTML Test
 ### CSS Validator - Pass
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
