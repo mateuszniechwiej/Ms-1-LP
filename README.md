@@ -5,6 +5,8 @@
 
 :globe_with_meridians: [Live website](https://mateuszniechwiej.github.io/Ms-1-LP/)
 
+:page_facing_up: [GitHub repository](https://github.com/mateuszniechwiej/Ms-1-LP)
+
 ### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework.The main goal is that users will find an easy navigated, intuitive and well visiual designed website with all information about products, locations and all other services provided by the company.
 
 # Table of Contest
@@ -152,7 +154,7 @@
 * 1 error found and fixed:
   1. __br__ tag - removed from *table* 
 
-3. [Gallery page](assets/validator/validator_gallery.pdf)
+3. [Gallery page](assets/validator/validator_gallery.pdf)-pdf
 * no errors found
 
 
