@@ -26,6 +26,7 @@
   * [Programs and Libaries](#Programs-and-Libaries)
 * [Testing](#Testing)
   * [Css/Html Validation](#CSS-and-HTML-Test)
+  * [Performance](#Performance)
   * [Colour Contrast](#Colour-Contrast)
 * [Deployment](#Deployment)
 * [Credits](#Credits)
@@ -157,7 +158,15 @@
 3. [Gallery page](assets/validator/validator_gallery.pdf)-pdf
 * no errors found
 
-
+:pushpin:
+## Performance
+### To improve and check performance for this website I used [Lighthouse](https://developers.google.com/web/tools/lighthouse) which is part of [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+  * Home Page Performance Test:
+  ![index.html test](assets/performance/home_performance.jpg)
+  * Locations Page Performance Test:
+  ![locations.html test](assets/performance/locations_performance.jpg) 
+  * Gallery Page Performance Test:
+  ![gallery.html test](assets/performance/gallery_performance.jpg)
 :pushpin:
 ## Colour Contrast 
   * By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
