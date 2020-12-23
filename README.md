@@ -86,7 +86,24 @@
 # Features 
 :pushpin:
 ## Project Features:
-* Navbar with logo, icon linked to locations section, and "hamburger menu" on mobiles and tablets.
+
+:nut_and_bolt: **Header** - with a navigation bar is located on top of the pages (home, locations and galleries) to help the user easily navigate through the content with a box shadow effect for visual purposes.
+* Logo brand located on the left side of the navigation bar on all pages with a homepage link for locations and gallery pages.
+* Navigation links are located:
+  * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple colour used in this project) to #d6d3c1 (shade of grey from colour palette used for this website) to let know the visitor know that the link is clickable.
+  * For mobile/Tabet - visitor will find a hamburger menu on the right side of navabar with navigation links collapse. Having the same hover effect.
+* Locations and social media links visible only on the desktop on the right side of the navigation bar with hover effect same as to be found for menu links, there are three icons in the header:
+  * locations icon - by clicking on this icon user is brought to google maps in new tab were all 3 locations for the company (Café and the 2 remaining ice cream shops).
+  * Facebook and Instagram icons linked to existing company accounts
+
+:nut_and_bolt: **Image carousel** - with captions located under the navigation bar :
+
+  * Visitor will find there three images presenting company products and basic information moving to the next automatically to the next slide after 5 seconds.
+
+  * Carousel from bootstrap was used in this project to present the product for the visitor with professional images to attract new customers.
+
+  * Captions start to be visible from medium screens and on bigger smartphones in landscape view for a better visual experience. Colour used for the heading is light purple(#bf3b9c) from the palette used across this project with rgba background for a better reading experience.
+
 * links to Facebook, Instagram and TripAdvisor(prefered in the footer) and directionlocation icon in both navbar nad footer as this place is located in local tourist attraction approx. 30km from Kraków city.
 * a page for filing in a "Form"  for customers to be able to contact the company. (booking, coments)
 * a page with locations and small icons with descriptions on times and services of each place.With link directions
