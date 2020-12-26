@@ -37,7 +37,7 @@
 
 * [Features](#Features)
 
-  * [Existing Features](#Project-Features)
+  * [Existing Features](#Existing-Features)
 
   * [Future Features](#Future-Features)
 
@@ -47,7 +47,7 @@
 
   * [Framework](#Framework)
 
-  * [Programmes and Libraries](#Programs-and-Libaries)
+  * [Programmes and Libraries](#Programmes-and-Libraries)
 
 * [Testing](#Testing)
 
@@ -134,7 +134,7 @@
  :black_nib:
 
 * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font. This font is elegant and modern. It offers an excellent reading experience.
-* The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimised for body text and used with **Open Sans**.
+* The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimised for body text and used with **Open Sans** in modern web design.
 
 ## Imagery
 
@@ -142,11 +142,11 @@
 
 * There is a logo image (provided by the owner of the company) appearing on each HTML page in the navbar and will be displayed through all devices (mobile, tablet and desktop).
 
-* In the homepage, there is an image carousel with 3 photos of the product with the caption displayed on larger screens (images were resized and optimised) for better user experience and website performance.
+* In the homepage, there is an image carousel with 3 photos of the product with the caption displayed on larger screens (images resized and optimised) for better user experience and website performance.
 
 * There is also a separate *__Gallery__* page with images of the products and pictures from the Café and company ice cream shops (resized into square images and optimised)
 
-### Wireframe
+### Wireframes
 
 :point_right: [Wireframes for mobile, tablet and desktop](https://xd.adobe.com/view/90708c4b-fc61-4ca3-95a0-3f497bdf5165-c523/)
 
@@ -172,7 +172,7 @@
 
   * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple used in this project) to #d6d3c1 (shade of grey from colour palette used for this website) to let know the visitor knows that the link is clickable.
 
-  * For mobile/Tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
+  * For mobile/tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
 
 * Locations and social media links visible only on the desktop on the right side of the navigation bar with a hover effect same as to be found for menu links. In the header we can find three icons:
 
@@ -196,27 +196,33 @@
 
 * Captions start to be visible from medium screens and on bigger smartphones in landscape view for a better visual experience. Colour used for the headings on each image is light purple (#bf3b9c) from the palette used across this project with rgba background for clear reading.
 
- 
+:large_blue_circle:
+**Video as a gif** - muted and looping with an added shadow effect to attract customers and trigger the desire for this product.
 
-* links to Facebook, Instagram and TripAdvisor (preferred in the footer) and direction location icon in both navbar and footer as this place is located in local tourist attraction approx. 30 km from Kraków city.
+:large_blue_circle:
+**Contact Form** - section on the homepage for filing in a "Form"  for customers to be able to contact the company (booking, comments) with links to send mail and call the owners for more information.
 
-* a page for filing in a "Form"  for customers to be able to contact the company. (booking, comments)
+:large_blue_circle:
+**Footer** - with Facebook, Instagram and TripAdvisor links and copyright information.
+* box shadow was added for visual experience.
 
-* a page with locations and small icons with descriptions on times and services of each place.With link directions
+:large_blue_circle:
+**Locations page** - logo brand with active link to go back to homepage in the header and directions to all ice cream locations with facilities available on each one of them.
+* an arrow to go back to the top of the page due to lenght to allow visitors to move easier through the website.
 
-* a link to download and view menu in pdf opened in new tab.
-
-* moving carousel photo gallery.
-
+:large_blue_circle:
+**Gallery page** - with 2 sections of product and places with an arrow on the bottom to allow visitors go back to the top of the page.
  
 
 :pushpin:
 
 ## Future Features:
 
-* payment options for pre-ordered products for collections.
+:white_circle: - payment options to pre-ordered products for collections.
 
-* polish language version 
+:white_circle: - polish language version
+
+:white_circle: - attach english menu.pdf to open in new tab
 
 #
 
@@ -257,7 +263,7 @@
 
 * [Google Fonts](https://fonts.google.com/)- to import 'Open Sans' and 'Libre Baskerville' fonts used through this project
 
-  * [Font Awesome](https://fontawesome.com/) - for social media links on the website and SVG used in wireframe
+* [Font Awesome](https://fontawesome.com/) - for social media links on the website and SVG used in wireframe
 
 * [Visual Studio Code](https://code.visualstudio.com/) - used to write this README.md
 * [GitPod](https://www.gitpod.io/) - used for developing the website and commit the project to Github repository.
@@ -390,17 +396,16 @@ In progress
 
 * To learn and create the box-shadow effect for navbar and footer:
 
-    * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
+  * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
 
-    * [Stack-Overflow](https://stackoverflow.com/questions/17739108/why-doesnt-the-box-shadow-show-above-the-footer-div)
+  * [Stack-Overflow](https://stackoverflow.com/questions/17739108/why-doesnt-the-box-shadow-show-above-the-footer-div)
 
 * Used box shadow for my video- Effect number 7:
 
-  * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
-
-*  To learn how to centre horizontally and vertically video:
-
-   *  [Stack-Overflow](https://stackoverflow.com/questions/42388989/bootstrap-4-center-vertical-and-horizontal-alignment)
+  * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
+ 
+* To learn how to centre horizontally and vertically video
+  * [Stack-Overflow](https://stackoverflow.com/questions/42388989/bootstrap-4-center-vertical-and-horizontal-alignment)
 
  
 
