@@ -10,8 +10,6 @@
 
 :globe_with_meridians: [Live website](https://mateuszniechwiej.github.io/Ms-1-LP/)
 
- 
-
 :page_facing_up: [GitHub repository](https://github.com/mateuszniechwiej/Ms-1-LP)
 
  
@@ -37,7 +35,7 @@
 
 * [Features](#Features)
 
-  * [Existing Features](#Existing-Features)
+  * [Existing Features](#Features)
 
   * [Future Features](#Future-Features)
 
@@ -66,25 +64,13 @@
   * [Media](#Media)
 
   * [Images](#Images)
-
- 
-
- 
-
- 
-
- 
-
- 
-
+  * 
 # UX   
 
 :pushpin:
 ## User Stories
 
 ### As a new user, I want to. . .
-
- 
 
 #### Easy and intuitive navigation through the website to find
 
@@ -106,8 +92,6 @@
 
 * to see new images or videos of the places and products.
 
- 
-
 :pushpin:
 
 ## Design
@@ -123,11 +107,7 @@
 
   :point_down:
 
- 
-
    ![Colour Pallete](assets/wireframes/Lawendowe%20Pole-%20Color%20Scheme.jpeg)
-
- 
 
 ## Typography
 
@@ -295,10 +275,8 @@
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
 
         <img style="border:0;width:88px;height:31px"
-
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-
-            alt="Valid CSS!" />
+src="http://jigsaw.w3.org/css-validator/images/vcss"
+alt="Valid CSS!"/>
 
     </a>
 
