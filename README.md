@@ -24,49 +24,48 @@
 
 * [User Experience](UX)](#UX)
 
-  * [User Stories](#User-Stories)
+* [User Stories](#User-Stories)
+* [Design](#Design)
 
-  * [Design](#Design)
+  * [Colour Scheme](#Colour-Scheme)
 
-    * [Colour Scheme](#Colour-Scheme)
+  * [Typography](#Typography)
 
-    * [Typography](#Typography)
+  * [Imagery](#Imagery)
 
-    * [Imagery](#Imagery)
-
-    * [Wireframes](#Wireframes)
+  * [Wireframes](#Wireframes)
 
 * [Features](#Features)
 
-  * [Existing Features](#Project-Features)
+  * [Existing Features](#Project-Features)
 
-  * [Future Features](#Future-Features)
+  * [Future Features](#Future-Features)
 
 * [Technologies Used](#Technologies-Used)
 
-  * [Languages Used](#Languages-Used)
+* [Languages Used](#Languages-Used)
 
-  * [Framework](#Framework)
+* [Framework](#Framework)
 
-  * [Programmes and Libraries](#Programs-and-Libaries)
+* [Programmes and Libraries](#Programs-and-Libaries)
 
 * [Testing](#Testing)
 
-  * [Css/Html Validation](#CSS-and-HTML-Test)
+  * [Css/Html Validation](#CSS-and-HTML-Test)
 
-  * [Performance](#Performance)
+  * [Performance](#Performance)
 
-  * [Colour Contrast](#Colour-Contrast)
+  * [Colour Contrast](#Colour-Contrast)
 
 * [Deployment](#Deployment)
 
 * [Credits](#Credits)
 
-  * [Code](#Code)
+* [Code](#Code)
 
-  * [Media](#Media)
+* [Media](#Media)
 
-    * [Images](#Images)
+* [Images](#Images)
 
  
 
