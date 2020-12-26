@@ -22,7 +22,7 @@
 
 # Table of Contest
 
-* [User Experience](UX)](#UX)
+* [User Experience(UX)](#UX)
 
 * [User Stories](#User-Stories)
 * [Design](#Design)
@@ -43,11 +43,11 @@
 
 * [Technologies Used](#Technologies-Used)
 
-* [Languages Used](#Languages-Used)
+  * [Languages Used](#Languages-Used)
 
-* [Framework](#Framework)
+  * [Framework](#Framework)
 
-* [Programmes and Libraries](#Programs-and-Libaries)
+  * [Programmes and Libraries](#Programs-and-Libaries)
 
 * [Testing](#Testing)
 
@@ -61,11 +61,11 @@
 
 * [Credits](#Credits)
 
-* [Code](#Code)
+  * [Code](#Code)
 
-* [Media](#Media)
+  * [Media](#Media)
 
-* [Images](#Images)
+  * [Images](#Images)
 
  
 
@@ -80,40 +80,31 @@
 # UX   
 
 :pushpin:
+## User Stories
 
-  ## User Stories
-
-  ### As a new user, I want to. . .
+### As a new user, I want to. . .
 
  
 
- #### Easy and intuitive navigation through the website to find
+#### Easy and intuitive navigation through the website to find
 
-  * Information about the product and services the company offers. 
+  * Information about the product and services the company offers. 
+  * Locate the Cafe and the remaining ice-cream shops.
+  * Menu
+  * know what facilities are available in each location (like parking, seat in/out, is coffee/drinks available and other deserts, can I pay with card)
+  * Find about opening times and form of contact.
+  * Find any reviews about the place on social media.
+  * Find photos or videos of the places and products.
+  * I want to be able to enjoy the design of the website and the content
+  * I want to easily navigate on mobile phones and tablets and be able to see all the content.
 
-   * Locate the Cafe and the remaining ice-cream shops.
+### As a returning customer, I want to :
 
-   * about the menu
+* Find about any new products the company is offering
 
-  * know what facilities are available in each location (like parking, seat in/out, is coffee/drinks available and other deserts, can I pay with card)
+* Information about the times opening changes (if they occur)
 
-  * Find about opening times and form of contact.
-
-  * Find any reviews about the place on social media.
-
-  * Find photos or videos of the places and products.
-
-  * I want to be able to enjoy the design of the website and the content
-
-  * I want to easily navigate on mobile phones and tablets and be able to see all the content.
-
-  ### As a returning customer, I want to :
-
-  * Find about any new products the company is offering
-
-  * Information about the times opening changes (if they occur)
-
-  * to see new images or videos of the places and products.
+* to see new images or videos of the places and products.
 
  
 
@@ -121,15 +112,14 @@
 
 ## Design
 
-   ### Colour Scheme
+### Colour Scheme
 
-   * Colours used in the project were picked with the focus on 2 colours:
+* Colours used in the project were picked with the focus on 2 colours:
 
-     * purple (which is the main colour for the brand) as "Lavender field"("Lawendowe Pole") is the name of the company and they use colours associated with their name.
+* purple (which is the main colour for the brand) as "Lavender field"("Lawendowe Pole") is the name of the company and they use colours associated with their name.
 
-     * turquoise as the company use this colour together with purple in the social media adverts and it looks well for companies associated with sweets, desserts and ice creams.
-
-*  *Adobe Color* was used to create the colour palette
+* turquoise as the company use this colour together with purple in the social media adverts and it looks well for companies associated with sweets, desserts and ice creams.
+* *Adobe Color* was used to create the colour palette
 
   :point_down:
 
@@ -141,11 +131,10 @@
 
 ## Typography
 
-   :black_nib:
+ :black_nib:
 
-   * The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font. This font is elegant and modern. It offers an excellent reading experience.
-
-   *  The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimised for body text and used with **Open Sans**.
+* The primary font used in this project is **Open Sans** with *sans-serif* as a fallback font. This font is elegant and modern. It offers an excellent reading experience.
+* The secondary font used for this website is __Libre Baskerville__ with _sans-serif_ as a fallback font. It's a web font optimised for body text and used with **Open Sans**.
 
 ## Imagery
 
@@ -165,7 +154,7 @@
 
 :point_right: [Wireframes - pdf](/assets/wireframes/wireframes.pdf)
 
-#
+
 
 # Features
 
@@ -181,15 +170,15 @@
 
 * Navigation links are located:
 
-  * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple used in this project) to #d6d3c1 (shade of grey from colour palette used for this website) to let know the visitor knows that the link is clickable.
+  * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple used in this project) to #d6d3c1 (shade of grey from colour palette used for this website) to let know the visitor knows that the link is clickable.
 
-  * For mobile/Tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
+  * For mobile/Tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
 
 * Locations and social media links visible only on the desktop on the right side of the navigation bar with a hover effect same as to be found for menu links. In the header we can find three icons:
 
-  * location icon - by clicking on this icon user is brought to google maps in new tab were all 3 locations for the company (Café and the 2 remaining ice cream shops).
+    * location icon - by clicking on this icon user is brought to google maps in new tab were all 3 locations for the company (Café and the 2 remaining ice cream shops).
 
-  * Facebook and Instagram icons linked to existing company accounts
+* Facebook and Instagram icons linked to existing company accounts
 
  
 
@@ -197,15 +186,15 @@
 
  
 
-  * Visitor will find there three images presenting company products and basic information moving to the next automatically to the next slide after 5 seconds.
+* Visitor will find there three images presenting company products and basic information moving to the next automatically to the next slide after 5 seconds.
 
  
 
-  * Carousel from bootstrap was used in this project to present the product for the visitor with professional images to attract new customers.
+* Carousel from bootstrap was used in this project to present the product for the visitor with professional images to attract new customers.
 
  
 
-  * Captions start to be visible from medium screens and on bigger smartphones in landscape view for a better visual experience. Colour used for the headings on each image is light purple (#bf3b9c) from the palette used across this project with rgba background for clear reading.
+* Captions start to be visible from medium screens and on bigger smartphones in landscape view for a better visual experience. Colour used for the headings on each image is light purple (#bf3b9c) from the palette used across this project with rgba background for clear reading.
 
  
 
@@ -247,7 +236,7 @@
 
 ## Framework
 
-  * [Bootstrap v.4.5.2](https://getbootstrap.com/) - used for layouts, styling and custom components such as navigation bar or image carousel.
+* [Bootstrap v.4.5.2](https://getbootstrap.com/) - used for layouts, styling and custom components such as navigation bar or image carousel.
 
  
 
@@ -255,43 +244,37 @@
 
 ## Programmes and Libraries
 
-  * [JPEG-OPTIMIZER](http://jpeg-optimizer.com/) - optimized the size of images used in this project
+* [JPEG-OPTIMIZER](http://jpeg-optimizer.com/) - optimized the size of images used in this project
 
-  * [tinypng](https://tinypng.com/) - optimized Mockup.png for README
+* [tinypng](https://tinypng.com/) - optimized Mockup.png for README
 
-  * [Concpets](https://concepts.app/en/) - to creat first handrawn wireframe
+* [Concpets](https://concepts.app/en/) - to creat first handrawn wireframe
+* [Adobe Xd](https://www.adobe.com/ie/products/xd/wireframing-tool.html#:~:text=Adobe%20XD%20is%20a%20powerful,all%20in%20one%20design%20tool.) - for wireframe
 
-  * [Adobe Xd](https://www.adobe.com/ie/products/xd/wireframing-tool.html#:~:text=Adobe%20XD%20is%20a%20powerful,all%20in%20one%20design%20tool.) - for wireframe
+* [Adobe Colour](https://color.adobe.com/create/color-wheel) - for colour palette used in this project
 
-  * [Adobe Colour](https://color.adobe.com/create/color-wheel) - for colour palette used in this project
+* [Adobe Photoshop Express](https://photoshop.adobe.com/?promoid=SYBNM1DC&mv=other) - To resize or crop the images for carousel in landing page and images in the gallery.
 
-  * [Adobe Photoshop Express](https://photoshop.adobe.com/?promoid=SYBNM1DC&mv=other) - To resize or crop the images for carousel in landing page and images in the gallery.
-
-  * [Google Fonts](https://fonts.google.com/)- to import 'Open Sans' and 'Libre Baskerville' fonts used through this project
+* [Google Fonts](https://fonts.google.com/)- to import 'Open Sans' and 'Libre Baskerville' fonts used through this project
 
   * [Font Awesome](https://fontawesome.com/) - for social media links on the website and SVG used in wireframe
 
-  * [Visual Studio Code](https://code.visualstudio.com/) - used to write this README.md
+* [Visual Studio Code](https://code.visualstudio.com/) - used to write this README.md
+* [GitPod](https://www.gitpod.io/) - used for developing the website and commit the project to Github repository.
 
-  * [GitPod](https://www.gitpod.io/) - used for developing the website and commit the project to Github repository.
+* [Github](https://github.com/) - used to host the project and deploy live website through [Git Pages](https://pages.github.com/).
 
-  * [Github](https://github.com/) - used to host the project and deploy live website through [Git Pages](https://pages.github.com/).
+* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website, and to ensure colour contrast
 
-  * [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website, and to ensure colour contrast
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse) - as a part of the chrome dev tool was used to improve the quality of the web page.
 
-    * [Lighthouse](https://developers.google.com/web/tools/lighthouse) - as a part of the chrome dev tool was used to improve the quality of the web page.
+* [Favicon](https://favicon.io/) - to create a favicon for this Website
 
-  * [Favicon](https://favicon.io/) - to create a favicon for this Website
+* [material.io](material.io) - Facebook SVG used in my wireframe comes from material.io
 
-  * [material.io](material.io) - Facebook SVG used in my wireframe comes from material.io
+* [zamar.com](https://www.zamzar.com/convert/mp4-to-webm/) - to convert mp4 to webm as fallback video file.
 
-  * [zamar.com](https://www.zamzar.com/convert/mp4-to-webm/) - to convert mp4 to webm as fallback video file.
-
-  * [techsini](https://techsini.com/) - To generate website mock-up for README file.
-
- 
-
- 
+* [techsini](https://techsini.com/) - To generate website mock-up for README file.
 
 # Testing
 
@@ -357,15 +340,15 @@
 
 ### To improve and check performance for this website I used [Lighthouse](https://developers.google.com/web/tools/lighthouse) , which is part of [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
 
-  * Home Page Performance Test:
+* Home Page Test:
 
   ![index.html test](assets/performance/home_performance.jpg)
 
-  * Locations Page Performance Test:
+* Locations Page Test:
 
   ![locations.html test](assets/performance/locations_performance.jpg)
 
-  * Gallery Page Performance Test:
+* Gallery Page  Test:
 
   ![gallery.html test](assets/performance/gallery_performance.jpg)
 
@@ -373,15 +356,15 @@
 
 ## Colour Contrast
 
-  * By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
+* By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
 
-    1. On the homepage of this project right click on the pc mouse
+1. On the homepage of this project right click on the pc mouse
 
-    2. Press - "Inspect"
+2. Press - "Inspect"
 
-    3. Press - ctr+shift+c or "small box with an arrow" to inspect elements of the website.
+3. Press - ctr+shift+c or "small box with an arrow" to inspect elements of the website.
 
-    4. Hover over elements to see under Accessibility->Contrast the result.
+4. Hover over elements to see under Accessibility->Contrast the result.
 
  
 
