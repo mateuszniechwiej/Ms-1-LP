@@ -298,9 +298,31 @@ alt="Valid CSS!"/>
 
 * 1 warning for sections
 
- 
+## Browsers Testing
 
-2. [Locations page](assets/validator/validator_locations.pdf)-pdf
+|Screen size\Browser |Chrome            |Opera             |Edge              |Firefox           |Safari            
+|--------------------|------------------|------------------|------------------|------------------|------------------| 
+|Mobile              |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Tablet              |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Desktop             |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+
+The website was tested on varied number of devices:
+### For Mobiles:
+* Android - Samsung Galaxy S10 (screen size - 6.1-inch) on Chrome, Opera, Firefox and Microsoft Edge
+* IOS - iPhone 7 (screen size - 4.7-inch) on Safari and Chrome
+### For Tablet:
+Surface book in tablet view - Chrome, Opera, Firefox, Edge (screen size - 13.5- inch)
+### For Desktop:
+* PC Windows (Windows 10):
+  1. Surface book on (screen size - 13.5-inch)
+  2. Surface book on the second monitor DELL U2419H(screen size - 24-inch)
+   
+  Tested on  Chrome, Opera, Firefox and Microsoft Edge
+* Macbook pro 13 :
+Also,friends and family were asked to test this website on different devices and didn't receive any bugs in the feedback.
+Tested on safari and Chrome browser.
+
+1. [Locations page](assets/validator/validator_locations.pdf)-pdf
 
 * 1 error found and fixed
 
