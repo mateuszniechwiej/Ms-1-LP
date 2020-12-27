@@ -299,6 +299,17 @@ alt="Valid CSS!"/>
  
 
 * 1 warning for sections
+2. [Locations page](assets/validator/validator_locations.pdf)-pdf
+
+* 1 error found and fixed
+ 
+    __br__ tag - removed from *table*
+
+ 
+
+3. [Gallery page](assets/validator/validator_gallery.pdf)-pdf
+
+* no errors found
 
 ## Browsers Testing
 
@@ -321,24 +332,9 @@ Surface book in tablet view - Chrome, Opera, Firefox, Edge (screen size - 13.5- 
    
   Tested on  Chrome, Opera, Firefox and Microsoft Edge
 * Macbook pro 13 :
-  * Tested on safari and Chrome browser.
+  * Tested on Safari and Chrome browser.
   
 Also,friends and family were asked to test this and I did not receive any bugs in the feedback from them.
-
-
-1. [Locations page](assets/validator/validator_locations.pdf)-pdf
-
-* 1 error found and fixed
-
-  1. __br__ tag - removed from *table*
-
- 
-
-3. [Gallery page](assets/validator/validator_gallery.pdf)-pdf
-
-* no errors found
-
- 
 
 :pushpin:
 
