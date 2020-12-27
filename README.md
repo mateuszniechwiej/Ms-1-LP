@@ -51,6 +51,8 @@
 
   * [Css/Html Validation](#CSS-and-HTML-Test)
 
+  * [Browsers Test](#Browsers-Testing)
+
   * [Performance](#Performance)
 
   * [Colour Contrast](#Colour-Contrast)
@@ -72,17 +74,17 @@
 
 ### As a new user, I want to. . .
 
-#### Easy and intuitive navigation through the website to find
+#### Easy and intuitive navigation through the website to :
 
-  * Information about the product and services the company offers. 
+  * Find information about the product and services the company offers. 
   * Locate the Cafe and the remaining ice-cream shops.
-  * Menu
+  * be able to see Menu
   * know what facilities are available in each location (like parking, seat in/out, is coffee/drinks available and other deserts, can I pay with card)
   * Find about opening times and form of contact.
   * Find any reviews about the place on social media.
   * Find photos or videos of the places and products.
-  * I want to be able to enjoy the design of the website and the content
-  * I want to easily navigate on mobile phones and tablets and be able to see all the content.
+  * be able to enjoy the design of the website and the content
+  * easy navigate on smartphones, tablets and desktop computers and be able to see all the content.
 
 ### As a returning customer, I want to :
 
@@ -319,8 +321,10 @@ Surface book in tablet view - Chrome, Opera, Firefox, Edge (screen size - 13.5- 
    
   Tested on  Chrome, Opera, Firefox and Microsoft Edge
 * Macbook pro 13 :
-Also,friends and family were asked to test this website on different devices and didn't receive any bugs in the feedback.
-Tested on safari and Chrome browser.
+  * Tested on safari and Chrome browser.
+  
+Also,friends and family were asked to test this and I did not receive any bugs in the feedback from them.
+
 
 1. [Locations page](assets/validator/validator_locations.pdf)-pdf
 
