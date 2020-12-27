@@ -144,13 +144,13 @@
 
  
 
-:large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and galleries) to help the user easily navigate through the content with a box shadow effect for better visual experiences.
+:large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and galleries) to help the user easily navigate through the content with a box shadow effect for a better visual experiences.
 
 * Logo brand located on the left side of the navigation bar on all pages with a homepage link for locations and gallery pages.
 
 * Navigation links are located:
 
-  * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple used in this project) to #d6d3c1 (shade of grey from colour palette used for this website) to let know the visitor knows that the link is clickable.
+  * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple used in this project) to #d6d3c1 (shade of grey from a colour palette used for this website) to let know the visitor knows that the link is clickable.
 
   * For mobile/tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
 
@@ -184,14 +184,14 @@
 
 :large_blue_circle:
 **Footer** - with Facebook, Instagram and TripAdvisor links and copyright information.
-* box shadow was added for visual experience.
+* box shadow was added for a visual experience.
 
 :large_blue_circle:
-**Locations page** - logo brand with active link to go back to homepage in the header and directions to all ice cream locations with facilities available on each one of them.
-* an arrow to go back to the top of the page due to lenght to allow visitors to move easier through the website.
+**Locations page** - logo brand with an active link to go back to homepage in the header and directions to all ice cream locations with facilities available on each one of them.
+* an arrow to go back to the top of the page due to length to allow visitors to move easier through the website.
 
 :large_blue_circle:
-**Gallery page** - with 2 sections of product and places with an arrow on the bottom to allow visitors go back to the top of the page.
+**Gallery page** - with 2 sections of product and places with an arrow on the bottom to allow visitors to go back to the top of the page.
  
 
 :pushpin:
@@ -200,9 +200,9 @@
 
 :white_circle: - payment options to pre-ordered products for collections.
 
-:white_circle: - polish language version
+:white_circle: - Polish language version
 
-:white_circle: - attach english menu.pdf to open in new tab
+:white_circle: - attach English menu.pdf to open in new tab
 
 #
 
@@ -234,7 +234,7 @@
 
 * [tinypng](https://tinypng.com/) - optimized Mockup.png for README
 
-* [Concpets](https://concepts.app/en/) - to creat first handrawn wireframe
+* [Concpets](https://concepts.app/en/) - to create the first hand-drawn wireframe
 * [Adobe Xd](https://www.adobe.com/ie/products/xd/wireframing-tool.html#:~:text=Adobe%20XD%20is%20a%20powerful,all%20in%20one%20design%20tool.) - for wireframe
 
 * [Adobe Colour](https://color.adobe.com/create/color-wheel) - for colour palette used in this project
@@ -270,16 +270,12 @@
 
 ### CSS Validator - Pass
 
-<p>
-
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+<p><a href="http://jigsaw.w3.org/css-validator/check/referer">
 
         <img style="border:0;width:88px;height:31px"
 src="http://jigsaw.w3.org/css-validator/images/vcss"
 alt="Valid CSS!"/>
-
     </a>
-
 </p>
 
  
@@ -370,7 +366,7 @@ In progress
 
 ## Code
 
-* [Bootstrap library](https://getbootstrap.com/) - used to create a responsive design, creat navbar, image carousel with captions and form.
+* [Bootstrap library](https://getbootstrap.com/) - used to create a responsive design, creat navbar, an image carousel with captions and form.
 
 * To learn and create the box-shadow effect for navbar and footer:
 
@@ -378,7 +374,7 @@ In progress
 
   * [Stack-Overflow](https://stackoverflow.com/questions/17739108/why-doesnt-the-box-shadow-show-above-the-footer-div)
 
-* Used box shadow for my video- Effect number 7:
+* Used box-shadow for my video- Effect number 7:
 
   * [CSS-Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/)
  
