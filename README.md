@@ -16,12 +16,9 @@
 
 ### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework. The main goal of this project is that users will find an easy navigated, intuitive and well visual-designed website with all information about products, locations and all other services provided by the company.
 
- 
-
 # Table of Contest
 
 * [User Experience(UX)](#UX)
-
 * [User Stories](#User-Stories)
 * [Design](#Design)
 
@@ -76,8 +73,8 @@
 
 #### Easy and intuitive navigation through the website to :
 
-  * Find information about the product and services the company offers. 
-  * Locate the Cafe and the remaining ice-cream shops.
+  * find information about the product and services the company offers. 
+  * locate the Cafe and the remaining ice-cream shops.
   * be able to see Menu
   * know what facilities are available in each location (like parking, seat in/out, is coffee/drinks available and other deserts, can I pay with card)
   * Find about opening times and form of contact.
@@ -88,10 +85,9 @@
 
 ### As a returning customer, I want to :
 
-* Find about any new products the company is offering
-
-* Information about the times opening changes (if they occur)
-
+* Find about any new products the company is offering.
+* Be able to find contact information.
+* Information about the times opening changes (if they occur).
 * to see new images or videos of the places and products.
 
 :pushpin:
@@ -101,9 +97,8 @@
 ### Colour Scheme
 
 * Colours used in the project were picked with the focus on 2 colours:
-
+  
 * purple (which is the main colour for the brand) as "Lavender field"("Lawendowe Pole") is the name of the company and they use colours associated with their name.
-
 * turquoise as the company use this colour together with purple in the social media adverts and it looks well for companies associated with sweets, desserts and ice creams.
 * *Adobe Color* was used to create the colour palette
 
@@ -122,29 +117,21 @@
 
 ### As this website is for an ice cream company, images are a crucial part of this project.
 
-* There is a logo image (provided by the owner of the company) appearing on each HTML page in the navbar and will be displayed through all devices (mobile, tablet and desktop).
-
+* There is a logo image (provided by the owner of the company) appearing on each HTML page in the naigation bar and will be displayed through all devices (mobile, tablet and desktop).
 * In the homepage, there is an image carousel with 3 photos of the product with the caption displayed on larger screens (images resized and optimised) for better user experience and website performance.
-
 * There is also a separate *__Gallery__* page with images of the products and pictures from the Café and company ice cream shops (resized into square images and optimised)
 
 ### Wireframes
 
 :point_right: [Wireframes for mobile, tablet and desktop](https://xd.adobe.com/view/90708c4b-fc61-4ca3-95a0-3f497bdf5165-c523/)
 
- 
-
 :point_right: [Wireframes - pdf](/assets/wireframes/wireframes.pdf)
-
-
+:pushpin:
 
 # Features
 
 :pushpin:
-
 ## Existing Features:
-
- 
 
 :large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and galleries) to help the user easily navigate through the content with a box shadow effect for a better visual experiences.
 
@@ -153,29 +140,19 @@
 * Navigation links are located:
 
   * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple used in this project) to #d6d3c1 (shade of grey from a colour palette used for this website) to let know the visitor knows that the link is clickable.
-
   * For mobile/tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
 
 * Locations and social media links visible only on the desktop on the right side of the navigation bar with a hover effect same as to be found for menu links. In the header we can find three icons:
 
-    * location icon - by clicking on this icon user is brought to google maps in new tab were all 3 locations for the company (Café and the 2 remaining ice cream shops).
+    * location icon - by clicking on this icon user is brought to google maps in a new tab where all 3 locations for the company (Café and the 2 remaining ice cream shops) will be displayed.
 
 * Facebook and Instagram icons linked to existing company accounts
 
- 
-
 :large_blue_circle: **Image carousel** - with captions located under the navigation bar:
 
- 
-
 * Visitor will find there three images presenting company products and basic information moving to the next automatically to the next slide after 5 seconds.
-
- 
-
+  
 * Carousel from bootstrap was used in this project to present the product for the visitor with professional images to attract new customers.
-
- 
-
 * Captions start to be visible from medium screens and on bigger smartphones in landscape view for a better visual experience. Colour used for the headings on each image is light purple (#bf3b9c) from the palette used across this project with rgba background for clear reading.
 
 :large_blue_circle:
@@ -194,7 +171,7 @@
 
 :large_blue_circle:
 **Gallery page** - with 2 sections of product and places with an arrow on the bottom to allow visitors to go back to the top of the page.
- 
+
 
 :pushpin:
 
@@ -218,15 +195,11 @@
 
   *  [CSS3](https://en.wikipedia.org/wiki/CSS)
 
- 
-
   :pushpin:
 
 ## Framework
 
 * [Bootstrap v.4.5.2](https://getbootstrap.com/) - used for layouts, styling and custom components such as navigation bar or image carousel.
-
- 
 
   :pushpin:
 
@@ -241,7 +214,7 @@
 
 * [Adobe Colour](https://color.adobe.com/create/color-wheel) - for colour palette used in this project
 
-* [Adobe Photoshop Express](https://photoshop.adobe.com/?promoid=SYBNM1DC&mv=other) - To resize or crop the images for carousel in landing page and images in the gallery.
+* [Adobe Photoshop Express](https://photoshop.adobe.com/?promoid=SYBNM1DC&mv=other) - To resize or crop the images for carousel in homepage and images in the gallery.
 
 * [Google Fonts](https://fonts.google.com/)- to import 'Open Sans' and 'Libre Baskerville' fonts used through this project
 
@@ -252,9 +225,9 @@
 
 * [Github](https://github.com/) - used to host the project and deploy live website through [Git Pages](https://pages.github.com/).
 
-* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website, and to ensure colour contrast
+* [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website, and to ensure colour contrast
 
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse) - as a part of the chrome dev tool was used to improve the quality of the web page.
+  * [Lighthouse](https://developers.google.com/web/tools/lighthouse) - as a part of the chrome dev tool was used to improve the quality of the web page.
 
 * [Favicon](https://favicon.io/) - to create a favicon for this Website
 
@@ -279,8 +252,6 @@ src="http://jigsaw.w3.org/css-validator/images/vcss"
 alt="Valid CSS!"/>
     </a>
 </p>
-
- 
 
 ### HTML Validator - Test
 
@@ -310,13 +281,14 @@ alt="Valid CSS!"/>
 3. [Gallery page](assets/validator/validator_gallery.pdf)-pdf
 
 * no errors found
-
+  
+:pushpin:
 ## Browsers Testing
 
 |Screen size\Browser |Chrome            |Opera             |Edge              |Firefox           |Safari            
 |--------------------|------------------|------------------|------------------|------------------|------------------| 
 |Mobile              |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|Tablet              |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Tablet              |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|Not Tested        |
 |Desktop             |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
 The website was tested on varied number of devices:
@@ -334,13 +306,13 @@ Surface book in tablet view - Chrome, Opera, Firefox, Edge (screen size - 13.5- 
 * Macbook pro 13 :
   * Tested on Safari and Chrome browser.
   
-Also,friends and family were asked to test this and I did not receive any bugs in the feedback from them.
+Also,friends and family were asked to test this website and I did not receive any information on noticed bugs in the feedback from them.
 
 :pushpin:
 
 ## Performance
 
-### To improve and check performance for this website I used [Lighthouse](https://developers.google.com/web/tools/lighthouse) , which is part of [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+### To improve and check performance for this website I used [Lighthouse](https://developers.google.com/web/tools/lighthouse) , which is part of [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
 
 * Home Page Test:
 
@@ -358,7 +330,7 @@ Also,friends and family were asked to test this and I did not receive any bugs i
 
 ## Colour Contrast
 
-* By using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
+* By using [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools) colour contrast was tested:
 
 1. On the homepage of this project right click on the pc mouse
 
@@ -366,10 +338,8 @@ Also,friends and family were asked to test this and I did not receive any bugs i
 
 3. Press - ctr+shift+c or "small box with an arrow" to inspect elements of the website.
 
-4. Hover over elements to see under Accessibility->Contrast the result.
-
- 
-
+4. Move the mouse cursor over elements to see under Accessibility->Contrast the result.
+5. Follow the same steps for locations and gallery pages.
 * All Html pages were tested and contrast was correct.
 
  
