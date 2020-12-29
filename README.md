@@ -336,14 +336,14 @@ In progress
 ### This website was developed using GitPod and VSCode, with repository hosted on GitHub.
 
 ## Project Initiation
-* This project was created using the following steps:
-    1. Open Github in the browser and sign in to my account.
-    2. Click on **Repositories**
-    3. Press **New**
-    4. Choose [Code Institute Temple](https://github.com/Code-Institute-Org/gitpod-full-template)
-    5. Give **Repository** a name and description
-    6. Press **Create repository**.
-    7. Finally clicked on **Gitpod** button in my new created repository to start working on this project.
+ This project was created using the following steps:
+1. Open Github in the browser and sign in to my account.
+2. Click on **Repositories**
+3. Press **New**
+4. Choose [Code Institute Temple](https://github.com/Code-Institute-Org/gitpod-full-template)
+5. Give **Repository** a name and description
+6. Press **Create repository**.
+7. Finally clicked on **Gitpod** button in new created repository to start working on this project.
 
 :pushpin:
 ## GitHub Pages
@@ -398,8 +398,9 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 * [Unsplash](https://unsplash.com/) - Images
 
 * [Pixabay](https://pixabay.com/) - Images and video used as a gif.
-
-### Acknowledgements
+  
+:pushpin:
+## Acknowledgements
 * My mentor, **_Maranatha Ilesanmi_** for advice,guidance and support on this project.
 * **_Daisy MC Girr_**(Code Institute student) for:
   * webinar on Testing  and README example.
@@ -408,4 +409,3 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 * **Slack Community** - for feedback on my project.
 * **My fiiends and family** - for giving feedback on my project and testing this website.
 
-In progress. . .
