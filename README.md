@@ -37,7 +37,7 @@
   * [Css/Html Validation](#CSS-and-HTML-Test)
   * [Performance](#Performance)
   * [Colour Contrast](#Colour-Contrast)
-  * [Funcionality](#Funcionality)
+  * [Funcionality](#Functionality)
 
 * [Deployment](#Deployment)
     * [Project Initiation](#Project-Initiation)
@@ -230,6 +230,7 @@
 4. Visiual aspects of the website: fonts,colour contrast,. :white_check_mark:
 5. Functionality -all links on each page working ,contact form and layout :white_check_mark: 
 6. User stories test ...:white_large_square:
+ 
 :pushpin:
 
 ## CSS and HTML Test
@@ -360,16 +361,55 @@ Also,friends and family were asked to test this website and I did not receive an
    * In mobile and tablet view:
      * About text displaying above video gif :white_check_mark:
   
-  No issues with the layout in About section 
+   * No issues with the layout in About section
+
 4. Contact Form:
    * All fields in contact form must be filled in:
      1. Trying to send without name input (required is displayed) :white_check_mark: 
      2. After putting name try to send and info to fill empty field in email box is showing. After typing text only information about missing **@** is displaying  :white_check_mark:
      3. Text area required after typing in name and email(booking is pre-selected with an option to change for comments) :white_check_mark:
-     4. After filling in all required field press **send** and no issues recorded. 
-
- 
-
+     4. After filling in all required field press **send** and no issues recorded. :white_check_mark:
+    * Links for email and phone in the contact section working :white_check_mark:
+5. Footer:
+  *Social links test :white_check_mark:
+**Locations**:
+1. Navigation bar
+* In desktop view:
+    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
+    * Tested menu links: home,about,contact,gallery and menu  :white_check_mark:
+    * social media links:
+      * locations(to open google maps in new tab with all 3 places) :white_check_mark:
+      * facebook and instagram :white_check_mark:
+* In mobile and tablet view:
+    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
+    * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
+    * Navbar-toggler button funcionality :white_check_mark:
+2. Three Locations sections:
+    * Get directions links tested :white_check_mark:
+    * scroll back to the top of the page button(used due to lenght of this page) tested :white_check_mark:
+    * For mobile and tablet view photo with directions is located above opening hours and facilities and in desktop view next to eachh other :white_check_mark:
+3. Footer:
+ * Social links test :white_check_mark:
+**Gallery**:
+1. Navigation bar
+* In desktop view:
+    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
+    * Tested menu links: home,about,contact,locations and menu  :white_check_mark:
+    * social media links:
+      * locations(to open google maps in new tab with all 3 places) :white_check_mark:
+      * facebook and instagram :white_check_mark:
+* In mobile and tablet view:
+    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
+    * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
+    * Navbar-toggler button funcionality :white_check_mark:
+2. Images layout:
+* For mobiles - 1 photo in row :white_check_mark:
+* For tablets  - 2 photo in row :white_check_mark:
+* For desktops - 4 photos in row :white_check_mark:
+No layout issues :white_check_mark:
+* scroll back to the top of the page button(used due to lenght of this page) tested :white_check_mark:
+3. Footer: 
+* Social links test :white_check_mark:
 # Deployment
 
 ### This website was developed using GitPod and VSCode, with repository hosted on GitHub.
