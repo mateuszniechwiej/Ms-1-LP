@@ -33,10 +33,11 @@
   * [Framework](#Framework)
   * [Programmes and Libraries](#Programmes-and-Libraries)
 * [Testing](#Testing)
+  * [Responsivnes and Browsers Testing](#Responsivnes-and-Browsers-Testing)
   * [Css/Html Validation](#CSS-and-HTML-Test)
-  * [Browsers Test](#Browsers-Testing)
   * [Performance](#Performance)
   * [Colour Contrast](#Colour-Contrast)
+  * [Funcionality](#Funcionality)
 
 * [Deployment](#Deployment)
     * [Project Initiation](#Project-Initiation)
@@ -221,7 +222,14 @@
 * [techsini](https://techsini.com/) - To generate website mock-up for README file.
 
 # Testing
-
+### This project is a static website using html ,css and bootstrap framework.
+### The test is covering:
+1.  Testing website responsives on devices from 280px width- elements should not overlap each other :white_check_mark:
+2. Css/Html validation :white_check_mark:
+3. Website performance and best practice :white_check_mark:
+4. Visiual aspects of the website: fonts,colour contrast,. :white_check_mark:
+5. Functionality -all links on each page working ,contact form and layout :white_check_mark: 
+6. User stories test ...:white_large_square:
 :pushpin:
 
 ## CSS and HTML Test
@@ -325,9 +333,40 @@ Also,friends and family were asked to test this website and I did not receive an
 5. Follow the same steps for locations and gallery pages.
 * All Html pages were tested and contrast was correct.
 
- 
+## Functionality 
+**Homepage**:
 
-In progress
+  1. Navigation bar
+   * In desktop view:
+     * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
+     * social media links:
+       * locations(to open google maps in new tab with all 3 places) :white_check_mark:
+       * facebook and instagram :white_check_mark:
+  * In mobile and tablet view:
+     * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
+     * Navbar-toggler button funcionality :white_check_mark:
+  2. Image Carousel:
+  * In desktop and tablet view :
+    * Image view :white_check_mark:
+    * Carousel controls next and prev :white_check_mark:
+    * Image captions -displaying :white_check_mark:
+  * In mobile view:
+    * Image view :white_check_mark:
+    * Carousel controls next and prev :white_check_mark:
+    * Image captions to *__not be displayed__* on mobile portrait view :white_check_mark:
+  3. About section:
+   * In desktop view:
+     * About text displaying on the left and video gif on the right side :white_check_mark:
+   * In mobile and tablet view:
+     * About text displaying above video gif :white_check_mark:
+  
+  No issues with the layout in About section 
+4. Contact Form:
+   * All fields in contact form must be filled in:
+     1. Trying to send without name input (required is displayed) :white_check_mark: 
+     2. After putting name try to send and info to fill empty field in email box is showing. After typing text only information about missing **@** is displaying  :white_check_mark:
+     3. Text area required after typing in name and email(booking is pre-selected with an option to change for comments) :white_check_mark:
+     4. After filling in all required field press **send** and no issues recorded. 
 
  
 
