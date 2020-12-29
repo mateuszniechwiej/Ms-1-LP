@@ -19,51 +19,34 @@
 # Table of Contest
 
 * [User Experience(UX)](#UX)
-* [User Stories](#User-Stories)
-* [Design](#Design)
-
-  * [Colour Scheme](#Colour-Scheme)
-
-  * [Typography](#Typography)
-
-  * [Imagery](#Imagery)
-
-  * [Wireframes](#Wireframes)
-
+  * [User Stories](#User-Stories)
+  * [Design](#Design)
+    * [Colour Scheme](#Colour-Scheme)
+    * [Typography](#Typography)
+    * [Imagery](#Imagery)
+    * [Wireframes](#Wireframes)
 * [Features](#Features)
-
   * [Existing Features](#Features)
-
   * [Future Features](#Future-Features)
-
 * [Technologies Used](#Technologies-Used)
-
   * [Languages Used](#Languages-Used)
-
   * [Framework](#Framework)
-
   * [Programmes and Libraries](#Programmes-and-Libraries)
-
 * [Testing](#Testing)
-
   * [Css/Html Validation](#CSS-and-HTML-Test)
-
   * [Browsers Test](#Browsers-Testing)
-
   * [Performance](#Performance)
-
   * [Colour Contrast](#Colour-Contrast)
 
 * [Deployment](#Deployment)
-
+    * [Project Initiation](#Project-Initiation)
+    * [GitHub Pages](#GitHub-Pages)
+    * [Local Clone](#Local-Clone)
 * [Credits](#Credits)
-
   * [Code](#Code)
-
   * [Media](#Media)
-
   * [Images](#Images)
-  * 
+  * [Acknowledgements](#Acknowledgements)
 # UX   
 
 :pushpin:
@@ -139,7 +122,7 @@
 
 * Navigation links are located:
 
-  * For desktop - next to the logo with a hover effect changing colours from #73185b (main purple used in this project) to #d6d3c1 (shade of grey from a colour palette used for this website) to let know the visitor knows that the link is clickable.
+  * For desktop - next to the logo with a hover effect changing colours from #73185b (Dark purple) to #d6d3c1 (Ecru White from a colour palette used for this website) to let know the visitor knows that the link is clickable.
   * For mobile/tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
 
 * Locations and social media links visible only on the desktop on the right side of the navigation bar with a hover effect same as to be found for menu links. In the header we can find three icons:
@@ -350,7 +333,36 @@ In progress
 
 # Deployment
 
- 
+### This website was developed using GitPod and VSCode, with repository hosted on GitHub.
+
+## Project Initiation
+* This project was created using the following steps:
+    1. Open Github in the browser and sign in to my account.
+    2. Click on **Repositories**
+    3. Press **New**
+    4. Choose [Code Institute Temple](https://github.com/Code-Institute-Org/gitpod-full-template)
+    5. Give **Repository** a name and description
+    6. Press **Create repository**.
+    7. Finally clicked on **Gitpod** button in my new created repository to start working on this project.
+
+:pushpin:
+## GitHub Pages
+This website was published using [GitHub Pages](https://pages.github.com/) by:
+1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
+2. Under the name of this project there is a navigation bar - > Click on **Settings**.
+3. Scroll down to the GitHub Pages Heading.
+4. Under the _Source_ Choose **Branch: master*
+5. Click _Save_ button.
+6. Click on the newly created link with the live page. (it might take a few minutes for the site to be published).
+
+:pushpin:
+## Local Clone
+1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
+2. Click on **Code** green button.
+3. Under the _Clone_ section copy the URL from the HTTPS dialogue box.
+4. Use the IDE of choice to open the terminal.
+5. Use **git clone** command followed by the copied URL.
+6. A clone of the project will now be created locally on your machine.   
 
 # Credits
 
@@ -381,14 +393,19 @@ In progress
 
 ### Images
 
-* Business owner of "Lawendowe Pole"- Images and video (used as a gif)  
+* Business owner of "Lawendowe Pole"- Images 
 
-* [Unsplash](https://unsplash.com/) - images
+* [Unsplash](https://unsplash.com/) - Images
 
-* [Pixabay](https://pixabay.com/) - images and gif video
+* [Pixabay](https://pixabay.com/) - Images and video used as a gif.
 
- 
-
- 
+### Acknowledgements
+* My mentor, **_Maranatha Ilesanmi_** for advice,guidance and support on this project.
+* **_Daisy MC Girr_**(Code Institute student) for:
+  * webinar on Testing  and README example.
+* **_Jim Lynx_** for :
+  * MS1 webinar and README example.
+* **Slack Community** - for feedback on my project.
+* **My fiiends and family** - for giving feedback on my project and testing this website.
 
 In progress. . .
