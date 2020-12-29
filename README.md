@@ -372,6 +372,7 @@ Also,friends and family were asked to test this website and I did not receive an
     * Links for email and phone in the contact section working :white_check_mark:
 5. Footer:
   *Social links test :white_check_mark:
+
 **Locations**:
 1. Navigation bar
 * In desktop view:
@@ -390,7 +391,9 @@ Also,friends and family were asked to test this website and I did not receive an
     * For mobile and tablet view photo with directions is located above opening hours and facilities and in desktop view next to eachh other :white_check_mark:
 3. Footer:
  * Social links test :white_check_mark:
+  
 **Gallery**:
+
 1. Navigation bar
 * In desktop view:
     * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
