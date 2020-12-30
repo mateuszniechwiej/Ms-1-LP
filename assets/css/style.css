@@ -53,18 +53,22 @@
 
 .lp-carusel-caption {
     margin:20%;
+    padding:5px;
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 .lp-carusel-caption h2 {
     font-family: 'Open Sans', 'sans-serif';
     font-weight: 500;
-    color: #bf3b9c;
-    background-color: rgba(0,0,0,0.3) 
+    color: #73185b;
+    margin-top: 5px;    
 }
 
 .lp-carusel-caption p {
     font-family: 'Libre Baskerville', sans-serif;
     font-weight: 500;
+    color: #000;
+    margin-bottom: 5px;
 }
 
 /*--------------------------------About*/
