@@ -20,6 +20,7 @@
 
 * [User Experience(UX)](#UX)
   * [User Stories](#User-Stories)
+  * [Project Workflow](#Project-Workflow)
   * [Design](#Design)
     * [Colour Scheme](#Colour-Scheme)
     * [Typography](#Typography)
@@ -74,8 +75,10 @@
 * Information about the times opening changes (if they occur).
 * to see new images or videos of the places and products.
 
-:pushpin:
-
+## Project Workflow
+* To organise the work flow I used JIRA project management tool:
+ 
+  ![Project managment](assets/Jira.png)
 ## Design
 
 ### Colour Scheme
