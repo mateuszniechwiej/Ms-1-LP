@@ -30,11 +30,11 @@
   * [Framework](#Framework)
   * [Programmes and Libraries](#Programmes-and-Libraries)
 * [Testing](#Testing)
-  * [Responsivnes and Browsers Testing](#Responsivnes-and-Browsers-Testing)
+  * [Responsiveness and Browsers Testing](#Responsivnes-and-Browsers-Testing)
   * [Css/Html Validation](#CSS-and-HTML-Test)
   * [Performance](#Performance)
   * [Colour Contrast](#Colour-Contrast)
-  * [Funcionality](#Functionality)
+  * [Functionality](#Functionality)
   * [Testing Users Stories](#Testing-Users-Stories)
 
 * [Deployment](#Deployment)
@@ -50,7 +50,7 @@
 
 ## User Stories
 ###  As a first-time visitor :
-  1. I want to intiutively navigate through the website(with the main focus on mobile.
+  1. I want to intuitively navigate through the website(with the main focus on mobile devices).
   2. I want to find information about the product and services the company offers.
   3. I want to find about the opening times in each location the product is offered. 
   4. I want to be able to locate the Cafe and the remaining ice-cream shops.
@@ -69,7 +69,7 @@
 ## Project Workflow
 * To organise the project work I used JIRA project management tool:
  
-  ![Project managment](assets/Jira.png)
+  ![Project management](assets/Jira.png)
 ## Design
 
 ### Colour Scheme
@@ -93,9 +93,9 @@
 
 ## Imagery
 
-### As this website is for an ice cream company, images are a crucial part of this project.
+### As this website is for an ice cream company, images are an important part of this project.
 
-* There is a logo image (provided by the owner of the company) appearing on each HTML page in the naigation bar and will be displayed through all devices (mobile, tablet and desktop).
+* There is a logo image (provided by the owner of the company) appearing on each HTML page in the navigation bar and will be displayed through all devices (mobile, tablet and desktop).
 * In the homepage, there is an image carousel with 3 photos of the product with the caption displayed on larger screens (images resized and optimised) for better user experience and website performance.
 * There is also a separate *__Gallery__* page with images of the products and pictures from the Café and company ice cream shops (resized into square images and optimised)
 
@@ -109,14 +109,14 @@
 
 ## Existing Features:
 
-:large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and galleries) to help the user easily navigate through the content with a box shadow effect for a better visual experiences.
+:large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and gallery) to help the user easily navigate through the content with a box shadow effect for a better visual experiences.
 
 * Logo brand located on the left side of the navigation bar on all pages with a homepage link for locations and gallery pages.
 
 * Navigation links are located:
 
   * For desktop - next to the logo with a hover effect changing colours from #73185b (Dark purple) to #d6d3c1 (Ecru White from a colour palette used for this website) to let know the visitor knows that the link is clickable.
-  * For mobile/tabet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
+  * For mobile/tablet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
 
 * Locations and social media links visible only on the desktop on the right side of the navigation bar with a hover effect same as to be found for menu links. In the header we can find three icons:
 
@@ -126,10 +126,10 @@
 
 :large_blue_circle: **Image carousel** - with captions located under the navigation bar:
 
-* Visitor will find there three images presenting company products and basic information moving to the next automatically to the next slide after 5 seconds.
+* A visitor will find there three images presenting company products and basic information moving to the next automatically to the next slide after 5 seconds.
   
 * Carousel from bootstrap was used in this project to present the product for the visitor with professional images to attract new customers.
-* Captions start to be visible from medium screens and on bigger smartphones in landscape view for a better visual experience. Colour used for the headings on each image is light purple (#bf3b9c) from the palette used across this project with rgba background for clear reading.
+* Captions start to be visible from medium screens and on bigger smartphones in landscape view for a better visual experience. Colour used for the headings on each image is light purple (#bf3b9c) from the palette used across this project with rgba background for the better reading experience.
 
 :large_blue_circle:
 **Video as a gif** - muted and looping with an added shadow effect to attract customers and trigger the desire for this product.
@@ -139,10 +139,10 @@
 
 :large_blue_circle:
 **Footer** - with Facebook, Instagram and TripAdvisor links and copyright information.
-* box shadow was added for a visual experience.
+* box-shadow was added for a visual experience.
 
 :large_blue_circle:
-**Locations page** - logo brand with an active link to go back to homepage in the header and directions to all ice cream locations with facilities available on each one of them.
+**Locations page** - logo brand with an active link to go back to the homepage in the header and directions to all ice cream locations with facilities available on each one of them.
 * an arrow to go back to the top of the page due to length to allow visitors to move easier through the website.
 
 :large_blue_circle:
@@ -182,7 +182,7 @@
 
 * [tinypng](https://tinypng.com/) - optimized Mockup.png for README
 
-* [Concpets](https://concepts.app/en/) - to create the first hand-drawn wireframe
+* [Concepts](https://concepts.app/en/) - to create the first hand-drawn wireframe
 * [Adobe Xd](https://www.adobe.com/ie/products/xd/wireframing-tool.html#:~:text=Adobe%20XD%20is%20a%20powerful,all%20in%20one%20design%20tool.) - for wireframe
 
 * [Adobe Colour](https://color.adobe.com/create/color-wheel) - for colour palette used in this project
@@ -196,7 +196,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - used to write this README.md
 * [GitPod](https://www.gitpod.io/) - used for developing the website and commit the project to Github repository.
 
-* [Github](https://github.com/) - used to host the project and deploy live website through [Git Pages](https://pages.github.com/).
+* [Github](https://github.com/) - used to host the project and deploy the live website through [Git Pages](https://pages.github.com/).
 
 * [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools) - used to debug and test the website, and to ensure colour contrast
 
@@ -206,18 +206,18 @@
 
 * [material.io](material.io) - Facebook SVG used in my wireframe comes from material.io
 
-* [zamar.com](https://www.zamzar.com/convert/mp4-to-webm/) - to convert mp4 to webm as fallback video file.
+* [zamar.com](https://www.zamzar.com/convert/mp4-to-webm/) - to convert mp4 to webm as the fallback video file.
 
 * [techsini](https://techsini.com/) - To generate website mock-up for README file.
 
 # Testing
-### This project is a static website using html ,css and bootstrap framework.
+### This project is a static website using HTML, CSS and bootstrap framework.
 ### The test is covering:
-1. Testing website responsives on devices from 280px width- elements should not overlap each other :white_check_mark:
+1. Testing website responsiveness on devices from 280px width- elements should not overlap each other :white_check_mark:
 2. Css/Html validation :white_check_mark:
 3. Website performance and best practice :white_check_mark:
-4. Visiual aspects of the website: fonts and colour contrast,. :white_check_mark:
-5. Functionality -all links on each page working ,contact form and layout :white_check_mark: 
+4. Visual aspects of the website: fonts and colour contrast. :white_check_mark:
+5. Functionality -all links on each page working, Contact Form and layout :white_check_mark: 
 6. User stories test :white_check_mark:
  
 
@@ -239,9 +239,9 @@ alt="Valid CSS!"/>
 
 * 4 errors found and fixed
 
-1. __inline__ attribute- removed form *video* element
+1. __inline__ attribute- removed from *video* element
 
-2. __value__ on *select* element - removed from *select* element
+2. __value__ on *select*  - removed from the *select* element
 
 3. __type__ attribute - removed from *textarea* element
 
@@ -254,7 +254,7 @@ alt="Valid CSS!"/>
 
 * 1 error found and fixed
  
-    __br__ tag - removed from *table*
+    __br__ tag - removed from the *table*
 
  
 
@@ -270,27 +270,27 @@ alt="Valid CSS!"/>
 |Tablet              |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|Not Tested        |
 |Desktop             |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
-The website was tested on varied number of devices:
+The website was tested on a varied number of devices:
 ### For Mobiles:
 * Android - Samsung Galaxy S10 (screen size - 6.1-inch) on Chrome, Opera, Firefox and Microsoft Edge
 * IOS - iPhone 7 (screen size - 4.7-inch) on Safari and Chrome
 ### For Tablet:
-Surface book in tablet view - Chrome, Opera, Firefox, Edge (screen size - 13.5- inch)
+Surface Book in tablet view - Chrome, Opera, Firefox, Edge (screen size - 13.5- inch)
 ### For Desktop:
 * PC Windows (Windows 10):
-  1. Surface book on (screen size - 13.5-inch)
-  2. Surface book on the second monitor DELL U2419H(screen size - 24-inch)
+  1. Surface Book on (screen size - 13.5-inch)
+  2. Surface Book on the second monitor DELL U2419H(screen size - 24-inch)
    
   Tested on  Chrome, Opera, Firefox and Microsoft Edge
-* Macbook pro 13 :
+* MacBook pro 13 :
   * Tested on Safari and Chrome browser.
   
-Also,friends and family were asked to test this website and I did not receive any information on noticed bugs in the feedback from them.
+Also, friends and family were asked to test this website and I did not receive any information on noticed bugs in the feedback from them.
 
 
 ## Performance
 
-### To improve and check performance for this website I used [Lighthouse](https://developers.google.com/web/tools/lighthouse) , which is part of [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+### To improve and check performance for this website I used [Lighthouse](https://developers.google.com/web/tools/lighthouse), which is part of [Chrome Developer Tool](https://developers.google.com/web/tools/chrome-devtools)
 
 * Home Page Test:
 
@@ -324,13 +324,13 @@ Also,friends and family were asked to test this website and I did not receive an
 
   1. Navigation bar
    * In desktop view:
-     * Tested menu links: Home(underlined to inform user on which currently page he is),About,Contact,Locations,Gallery and Menu  :white_check_mark:
+     * Tested menu links: Home(underlined to inform the user on which currently page he is), About, Contact, Locations, Gallery and Menu  :white_check_mark:
      * social media links:
        * locations(to open google maps in new tab with all 3 places) :white_check_mark:
-       * facebook and instagram :white_check_mark:
+       * Facebook and Instagram :white_check_mark:
   * In mobile and tablet view:
-     * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
-     * Navbar-toggler button funcionality :white_check_mark:
+     * Tested menu links: About, Contact, Locations, Gallery and Menu  :white_check_mark:
+     * Navbar-toggler button functionality :white_check_mark:
   2. Image Carousel:
   * In desktop and tablet view :
     * Image view :white_check_mark:
@@ -339,7 +339,7 @@ Also,friends and family were asked to test this website and I did not receive an
   * In mobile view:
     * Image view :white_check_mark:
     * Carousel controls next and prev :white_check_mark:
-    * Image captions to *__not be displayed__* on mobile portrait view :white_check_mark:
+    * Image captions to *__not be displayed__* on the mobile portrait view :white_check_mark:
   3. About section:
    * In desktop view:
      * About text displaying on the left and video gif on the right side :white_check_mark:
@@ -351,8 +351,8 @@ Also,friends and family were asked to test this website and I did not receive an
 4. Contact Form:
    * All fields in the contact form are required to be filled in:
      1. Trying to send without name input (required is displayed) :white_check_mark: 
-     2. After putting name try to send and info to fill empty field in email box is showing. After typing text only information about missing **@** is displaying  :white_check_mark:
-     3. Text area required after typing in name and email(booking is pre-selected with an option to change for comments) :white_check_mark:
+     2. After putting name try to send and info to fill empty field in email box is showing. After typing only the text information about missing **@** is displaying  :white_check_mark:
+     3. Text area required after typing in a name and email(booking is pre-selected with an option to change for comments) :white_check_mark:
      4. After filling in all required field press **send** and no issues recorded. :white_check_mark:
     * Links for email and phone in the contact section working :white_check_mark:
 5. Footer:
@@ -361,19 +361,19 @@ Also,friends and family were asked to test this website and I did not receive an
 **Locations**:
 1. Navigation bar
 * In desktop view:
-    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
-    * Tested menu links: Home,About,Contact,Locations(underlined to inform user on which currently page he is),Gallery and menu  :white_check_mark:
+    * By clicking the logo brand located on the left, the visitor is brought back to the homepage :white_check_mark:
+    * Tested menu links: Home, About, Contact, Locations(underlined to inform the user on which currently page he is), Gallery and menu  :white_check_mark:
     * social media links:
       * locations(to open google maps in new tab with all 3 places) :white_check_mark:
-      * facebook and instagram :white_check_mark:
+      * Facebook and Instagram :white_check_mark:
 * In mobile and tablet view:
-    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
+    * By clicking the logo brand located on the left, the visitor is brought back to the homepage :white_check_mark:
     * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
-    * Navbar-toggler button funcionality :white_check_mark:
+    * Navbar-toggler button functionality :white_check_mark:
 1. Three Locations sections:
     * Get directions links tested :white_check_mark:
-    * scroll back to the top of the page button(used due to lenght of this page) tested :white_check_mark:
-    * For mobile and tablet view photo with directions is located above opening hours and facilities and in desktop view next to eachh other :white_check_mark:
+    * scroll back to the top of the page button(used due to length of this page) tested :white_check_mark:
+    * For mobile and tablet view photo with directions is located above opening hours and facilities and in desktop view next to each other :white_check_mark:
 2. Footer:
  * Social links test :white_check_mark:
   
@@ -381,21 +381,21 @@ Also,friends and family were asked to test this website and I did not receive an
 
 1. Navigation bar
 * In desktop view:
-    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
-    * Tested menu links: Home,About,Contact,Locations,Gallery(underlined to inform user on which currently page he is) and Menu  :white_check_mark:
+    * By clicking the logo brand located on the left, the visitor is brought back to the homepage :white_check_mark:
+    * Tested menu links: Home, About, Contact, Locations, Gallery(underlined to inform the user on which currently page he is) and Menu  :white_check_mark:
     * social media links:
       * locations(to open google maps in new tab with all 3 places) :white_check_mark:
-      * facebook and instagram :white_check_mark:
+      * Facebook and Instagram :white_check_mark:
 * In mobile and tablet view:
-    * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
-    * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
-    * Navbar-toggler button funcionality :white_check_mark:
+    * By clicking the logo brand located on the left, the visitor is brought back to the homepage :white_check_mark:
+    * Tested menu links: About, Contact, Locations, Gallery and Menu  :white_check_mark:
+    * Navbar-toggler button functionality :white_check_mark:
 1. Images layout:
-* For mobiles - 1 photo in row :white_check_mark:
-* For tablets  - 2 photo in row :white_check_mark:
-* For desktops - 4 photos in row :white_check_mark:
+* For mobiles - 1 photo in a row :white_check_mark:
+* For tablets  - 2 photo in a row :white_check_mark:
+* For desktops - 4 photos in a row :white_check_mark:
 No layout issues :white_check_mark:
-* scroll back to the top of the page button(used due to lenght of this page) tested :white_check_mark:
+* scroll back to the top of the page button(used due to length of this page) tested :white_check_mark:
 3. Footer: 
 * Social links test :white_check_mark:
 ## Testing Users Stories
@@ -418,7 +418,7 @@ On all devices in the navigations menu visitor will find a link to **Locations**
 Also on desktop view visitor will find on the right side of the navigation bar a location icon. After clicking on that link google maps with all three locations will be opened in a new tab. (This option will be available on all Pages)
 >5. I want to know what facilities are available in each location (like parking, seat in/out, "is coffee/drinks available and other deserts?", "can I pay with a card?").
 
-A visitor will be able to find about the facilities on **Locations** page.
+A visitor will be able to find about the facilities on the **Locations** page.
 >6. I want to view the current company "Menu".
 
 On all devices in the navigations bar visitor will find a link to **_MENU_** opening in a new tab in a pdf file.
@@ -429,7 +429,7 @@ For all devices visitor will find social icons in the footer linked to existing 
 Additionally in desktop view on the right side of the navbar visitor will find social media links to Facebook and Instagram.
 >8. I want to find photos or videos of the places and products.
 
-On all devices in the navigations menu visitor will find a link to **Gallery** page where he/she can find photos of the product and places the product is served.
+On all devices in the navigations menu visitor will find a link to the **Gallery** page where he/she can find photos of the product and places the product is served.
 
 Photos and other media are also available on "Lawendowe Pole " Facebook and Instagram accounts.
 
@@ -459,21 +459,21 @@ A returning visitor will find new photos in gallery page and video gif updated u
 4. Choose [Code Institute Temple](https://github.com/Code-Institute-Org/gitpod-full-template)
 5. Give **Repository** a name and description
 6. Press **Create repository**.
-7. Finally clicked on **Gitpod** button in new created repository to start working on this project.
+7. Finally clicked on **Gitpod** button in the newly created repository to start working on this project.
 
 ## GitHub Pages
 This website was published using [GitHub Pages](https://pages.github.com/) by:
 1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
-2. Under the name of this project there is a navigation bar - > Click on **Settings**.
+2. Under the name of this project,there is a navigation bar - > Click on **Settings**.
 3. Scroll down to the GitHub Pages Heading.
 4. Under the _Source_ Choose **Branch: master*
-5. Click _Save_ button.
+5. Click the _Save_ button.
 6. Click on the newly created link with the live page. (it can take a few minutes for the site to be published).
 
 ## Local Clone
 1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
 2. Click on **Code** green button.
-3. Under the _Clone_ section copy the URL from the HTTPS dialogue box.
+3. Under the _Clone_ section, copy the URL from the HTTPS dialogue box.
 4. Use the IDE of choice to open the terminal.
 5. Use **git clone** command followed by the copied URL.
 6. A clone of the project will now be created locally on your machine.   
