@@ -50,7 +50,7 @@
 
 ## User Stories
 ###  As a first-time visitor :
-  1. I want to intiutively navigate through the website(with the main focus on mobile(looking for food-related places happens often on the route).
+  1. I want to intiutively navigate through the website(with the main focus on mobile.
   2. I want to find information about the product and services the company offers.
   3. I want to find about the opening times in each location the product is offered. 
   4. I want to be able to locate the Cafe and the remaining ice-cream shops.
@@ -213,12 +213,12 @@
 # Testing
 ### This project is a static website using html ,css and bootstrap framework.
 ### The test is covering:
-1.  Testing website responsives on devices from 280px width- elements should not overlap each other :white_check_mark:
+1. Testing website responsives on devices from 280px width- elements should not overlap each other :white_check_mark:
 2. Css/Html validation :white_check_mark:
 3. Website performance and best practice :white_check_mark:
-4. Visiual aspects of the website: fonts,colour contrast,. :white_check_mark:
+4. Visiual aspects of the website: fonts and colour contrast,. :white_check_mark:
 5. Functionality -all links on each page working ,contact form and layout :white_check_mark: 
-6. User stories test ...:white_large_square:
+6. User stories test :white_check_mark:
  
 
 ## CSS and HTML Test
@@ -349,7 +349,7 @@ Also,friends and family were asked to test this website and I did not receive an
    * No issues with the layout in About section
 
 4. Contact Form:
-   * All fields in contact form must be filled in:
+   * All fields in the contact form are required to be filled in:
      1. Trying to send without name input (required is displayed) :white_check_mark: 
      2. After putting name try to send and info to fill empty field in email box is showing. After typing text only information about missing **@** is displaying  :white_check_mark:
      3. Text area required after typing in name and email(booking is pre-selected with an option to change for comments) :white_check_mark:
@@ -400,7 +400,7 @@ No layout issues :white_check_mark:
 * Social links test :white_check_mark:
 ## Testing Users Stories
 ### First-time visitor stories:
->1. I want to intutively navigate through the website(with the main focus on mobile(looking for food-related places happens often on the route).
+>1. I want to intuitively navigate through the website(with the main focus on mobile(looking for food-related places happens often on the route).
 
  The website was designed with a Mobile-first approach. All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with current page menu link underlined for more clarity. For longer Pages(Locations and Gallery) visitor will find "Back to the Top" button for better navigation experience.
  >2. I want to find information about the product and services the company offers.
@@ -436,7 +436,17 @@ Photos and other media are also available on "Lawendowe Pole " Facebook and Inst
 A muted video used as a gif will be available in the **About** section. 
 >9. I want to enjoy the design of the website and the content.
 
-A visitor will find an easily navigated website, with an intuitive way to find the content. Colours and fonts, images and video used in this project also were chosen for a better visual experience.
+A visitor will find an easily navigated website, with an intuitive way to find the content. Colours, fonts and images and video used in this project also were chosen for a better visual experience.
+### Returning visitor stories:
+>1. I want to find contact information.
+>2. I want to find directions to the Café and the remaining ice-cream shops.
+>3. I want to find about current opening times.
+
+A returning visitor will still find information about opening times, contact details and also navigation directions to company ice cream places.
+>4. I want to see new images or videos of the places and product.
+
+A returning visitor will find new photos in gallery page and video gif updated upon owners request on the homepage. 
+ 
 # Deployment
 
 ### This website was developed using GitPod and VSCode, with repository hosted on GitHub.
@@ -458,7 +468,7 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 3. Scroll down to the GitHub Pages Heading.
 4. Under the _Source_ Choose **Branch: master*
 5. Click _Save_ button.
-6. Click on the newly created link with the live page. (it might take a few minutes for the site to be published).
+6. Click on the newly created link with the live page. (it can take a few minutes for the site to be published).
 
 ## Local Clone
 1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
@@ -502,11 +512,11 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 * [Pixabay](https://pixabay.com/) - Images and video used as a gif.
   
 ## Acknowledgements
-* My mentor, **_Maranatha Ilesanmi_** for advice,guidance and support on this project.
-* **_Daisy MC Girr_**(Code Institute student) for:
+* My mentor, **_Maranatha Ilesanmi_** for advice, guidance and support on this project.
+* **_Daisy Mc Girr_**(Code Institute student) for:
   * webinar on Testing.
 * **_Jim Lynx_** for :
   * MS1 webinar and README example.
 * **Slack Community** - for feedback on my project.
-* **My fiiends and family** - for giving feedback on my project and testing this website.
+* **My friends and family** - for giving feedback on my project and testing this website.
 
