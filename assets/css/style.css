@@ -250,6 +250,13 @@
 .lp-arrow i {
     font-size: 3rem;
     color: #73185b;
-}.lp-arrow i:hover {
+}
+
+.lp-arrow i:hover {
+    font-size: 3.5rem;
     color: #bf3b9c;
+}
+
+.lp-btn--back {
+    background-color: #3bbfbf;
 }

@@ -6,13 +6,9 @@
 
 ![Lawendowe Pole](assets/wireframes/Mockup.png)
 
- 
-
 :globe_with_meridians: [Live website](https://mateuszniechwiej.github.io/Ms-1-LP/)
 
 :page_facing_up: [GitHub repository](https://github.com/mateuszniechwiej/Ms-1-LP)
-
- 
 
 ### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework. The main goal of this project is that users will find an easy navigated, intuitive and well visual-designed website with all information about products, locations and all other services provided by the company.
 
@@ -51,7 +47,6 @@
   * [Acknowledgements](#Acknowledgements)
 # UX   
 
-:pushpin:
 ## User Stories
 
 ### As a new user, I want to. . .
@@ -76,7 +71,7 @@
 * to see new images or videos of the places and products.
 
 ## Project Workflow
-* To organise the work flow I used JIRA project management tool:
+* To organise the project work I used JIRA project management tool:
  
   ![Project managment](assets/Jira.png)
 ## Design
@@ -113,11 +108,9 @@
 :point_right: [Wireframes for mobile, tablet and desktop](https://xd.adobe.com/view/90708c4b-fc61-4ca3-95a0-3f497bdf5165-c523/)
 
 :point_right: [Wireframes - pdf](/assets/wireframes/wireframes.pdf)
-:pushpin:
 
 # Features
 
-:pushpin:
 ## Existing Features:
 
 :large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and galleries) to help the user easily navigate through the content with a box shadow effect for a better visual experiences.
@@ -160,8 +153,6 @@
 **Gallery page** - with 2 sections of product and places with an arrow on the bottom to allow visitors to go back to the top of the page.
 
 
-:pushpin:
-
 ## Future Features:
 
 :white_circle: - payment options to pre-ordered products for collections.
@@ -174,23 +165,22 @@
 
 # Technologies Used
 
-:pushpin:
 
 ## Languages Used
 
   *  [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
   *  [CSS3](https://en.wikipedia.org/wiki/CSS)
-
-  :pushpin:
+ 
 
 ## Framework
 
 * [Bootstrap v.4.5.2](https://getbootstrap.com/) - used for layouts, styling and custom components such as navigation bar or image carousel.
-
-  :pushpin:
+ 
 
 ## Programmes and Libraries
+
+* [JIRA](https://www.atlassian.com/software/jira) - project management tool
 
 * [JPEG-OPTIMIZER](http://jpeg-optimizer.com/) - optimized the size of images used in this project
 
@@ -234,7 +224,6 @@
 5. Functionality -all links on each page working ,contact form and layout :white_check_mark: 
 6. User stories test ...:white_large_square:
  
-:pushpin:
 
 ## CSS and HTML Test
 
@@ -277,7 +266,6 @@ alt="Valid CSS!"/>
 
 * no errors found
   
-:pushpin:
 ## Browsers Testing
 
 |Screen size\Browser |Chrome            |Opera             |Edge              |Firefox           |Safari            
@@ -303,7 +291,6 @@ Surface book in tablet view - Chrome, Opera, Firefox, Edge (screen size - 13.5- 
   
 Also,friends and family were asked to test this website and I did not receive any information on noticed bugs in the feedback from them.
 
-:pushpin:
 
 ## Performance
 
@@ -321,7 +308,6 @@ Also,friends and family were asked to test this website and I did not receive an
 
   ![gallery.html test](assets/performance/gallery_performance.jpg)
 
-:pushpin:
 
 ## Colour Contrast
 
@@ -430,7 +416,6 @@ No layout issues :white_check_mark:
 6. Press **Create repository**.
 7. Finally clicked on **Gitpod** button in new created repository to start working on this project.
 
-:pushpin:
 ## GitHub Pages
 This website was published using [GitHub Pages](https://pages.github.com/) by:
 1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
@@ -440,7 +425,6 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 5. Click _Save_ button.
 6. Click on the newly created link with the live page. (it might take a few minutes for the site to be published).
 
-:pushpin:
 ## Local Clone
 1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
 2. Click on **Code** green button.
@@ -451,7 +435,6 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 
 # Credits
 
-:pushpin:
 
 ## Code
 
@@ -472,7 +455,6 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 
  
 
-:pushpin:
 
 ## Media
 
@@ -484,7 +466,6 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 
 * [Pixabay](https://pixabay.com/) - Images and video used as a gif.
   
-:pushpin:
 ## Acknowledgements
 * My mentor, **_Maranatha Ilesanmi_** for advice,guidance and support on this project.
 * **_Daisy MC Girr_**(Code Institute student) for:
