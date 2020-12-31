@@ -35,6 +35,7 @@
   * [Performance](#Performance)
   * [Colour Contrast](#Colour-Contrast)
   * [Funcionality](#Functionality)
+  * [Testing Users Stories](#Testing-Users-Stories)
 
 * [Deployment](#Deployment)
     * [Project Initiation](#Project-Initiation)
@@ -48,27 +49,22 @@
 # UX   
 
 ## User Stories
-
-### As a new user, I want to. . .
-
-#### Easy and intuitive navigation through the website to :
-
-  * find information about the product and services the company offers. 
-  * locate the Cafe and the remaining ice-cream shops.
-  * be able to see Menu
-  * know what facilities are available in each location (like parking, seat in/out, is coffee/drinks available and other deserts, can I pay with card)
-  * Find about opening times and form of contact.
-  * Find any reviews about the place on social media.
-  * Find photos or videos of the places and products.
-  * be able to enjoy the design of the website and the content
-  * easy navigate on smartphones, tablets and desktop computers and be able to see all the content.
-
-### As a returning customer, I want to :
-
-* Find about any new products the company is offering.
-* Be able to find contact information.
-* Information about the times opening changes (if they occur).
-* to see new images or videos of the places and products.
+###  As a first-time visitor :
+  1. I want to intiutively navigate through the website(with the main focus on mobile(looking for food-related places happens often on the route).
+  2. I want to find information about the product and services the company offers.
+  3. I want to find about the opening times in each location the product is offered. 
+  4. I want to be able to locate the Cafe and the remaining ice-cream shops.
+  5. I want to know what facilities are available in each location (like parking, seat in/out, "is coffee/drinks available and other deserts?", "can I pay with a card?").
+  6. I want to view the current company **"Menu"**.
+  7. I want to find reviews about this company on social media.
+  8. I want to find photos or videos of the places and products.
+  9. I want to enjoy the design of the website and the content.
+    
+### As a returning visitor:
+1. I want to find contact information.
+2. I want to find directions to the Café and the remaining ice-cream shops.
+3. I want to find about current opening times.
+4. I want to see new images or videos of the places and product.
 
 ## Project Workflow
 * To organise the project work I used JIRA project management tool:
@@ -328,7 +324,7 @@ Also,friends and family were asked to test this website and I did not receive an
 
   1. Navigation bar
    * In desktop view:
-     * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
+     * Tested menu links: Home(underlined to inform user on which currently page he is),About,Contact,Locations,Gallery and Menu  :white_check_mark:
      * social media links:
        * locations(to open google maps in new tab with all 3 places) :white_check_mark:
        * facebook and instagram :white_check_mark:
@@ -366,7 +362,7 @@ Also,friends and family were asked to test this website and I did not receive an
 1. Navigation bar
 * In desktop view:
     * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
-    * Tested menu links: home,about,contact,gallery and menu  :white_check_mark:
+    * Tested menu links: Home,About,Contact,Locations(underlined to inform user on which currently page he is),Gallery and menu  :white_check_mark:
     * social media links:
       * locations(to open google maps in new tab with all 3 places) :white_check_mark:
       * facebook and instagram :white_check_mark:
@@ -374,11 +370,11 @@ Also,friends and family were asked to test this website and I did not receive an
     * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
     * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
     * Navbar-toggler button funcionality :white_check_mark:
-2. Three Locations sections:
+1. Three Locations sections:
     * Get directions links tested :white_check_mark:
     * scroll back to the top of the page button(used due to lenght of this page) tested :white_check_mark:
     * For mobile and tablet view photo with directions is located above opening hours and facilities and in desktop view next to eachh other :white_check_mark:
-3. Footer:
+2. Footer:
  * Social links test :white_check_mark:
   
 **Gallery**:
@@ -386,7 +382,7 @@ Also,friends and family were asked to test this website and I did not receive an
 1. Navigation bar
 * In desktop view:
     * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
-    * Tested menu links: home,about,contact,locations and menu  :white_check_mark:
+    * Tested menu links: Home,About,Contact,Locations,Gallery(underlined to inform user on which currently page he is) and Menu  :white_check_mark:
     * social media links:
       * locations(to open google maps in new tab with all 3 places) :white_check_mark:
       * facebook and instagram :white_check_mark:
@@ -394,7 +390,7 @@ Also,friends and family were asked to test this website and I did not receive an
     * By clicking logo brand located on the left is visitor is brought back to homepage :white_check_mark:
     * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
     * Navbar-toggler button funcionality :white_check_mark:
-2. Images layout:
+1. Images layout:
 * For mobiles - 1 photo in row :white_check_mark:
 * For tablets  - 2 photo in row :white_check_mark:
 * For desktops - 4 photos in row :white_check_mark:
@@ -402,6 +398,45 @@ No layout issues :white_check_mark:
 * scroll back to the top of the page button(used due to lenght of this page) tested :white_check_mark:
 3. Footer: 
 * Social links test :white_check_mark:
+## Testing Users Stories
+### First-time visitor stories:
+>1. I want to intutively navigate through the website(with the main focus on mobile(looking for food-related places happens often on the route).
+
+ The website was designed with a Mobile-first approach. All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with current page menu link underlined for more clarity. For longer Pages(Locations and Gallery) visitor will find "Back to the Top" button for better navigation experience.
+ >2. I want to find information about the product and services the company offers.
+
+ On the Homepage visitor will find Image carousel with captions to give information about the products.
+ From the navigation bar on every page, a visitor will be able to be directed to **About** section where he can see information about company and testimonies from customers.
+ >3. I want to find about the opening times and in each location, the product is offered and a form of contact.
+
+On all devices in the navigation menu visitor will find a link to **Locations** page where he/she can find about opening times for all three places the ice cream is sold.
+From the navigation bar on every page visitor will be able to be directed to **Contact us** section where he can find a contact form and links to company email and telephone. 
+>4. I want to be able to locate the Cafe and the remaining ice-cream shops.
+
+On all devices in the navigations menu visitor will find a link to **Locations** page where he/she can find __directions__ link icon opening google maps in a new tab with the exact location of place he/she is interested to go. (Available on all pages).
+
+Also on desktop view visitor will find on the right side of the navigation bar a location icon. After clicking on that link google maps with all three locations will be opened in a new tab. (This option will be available on all Pages)
+>5. I want to know what facilities are available in each location (like parking, seat in/out, "is coffee/drinks available and other deserts?", "can I pay with a card?").
+
+A visitor will be able to find about the facilities on **Locations** page.
+>6. I want to view the current company "Menu".
+
+On all devices in the navigations bar visitor will find a link to **_MENU_** opening in a new tab in a pdf file.
+>7. I want to find reviews about this company on social media.
+
+For all devices visitor will find social icons in the footer linked to existing social media accounts and trip advisor information about this place.
+
+Additionally in desktop view on the right side of the navbar visitor will find social media links to Facebook and Instagram.
+>8. I want to find photos or videos of the places and products.
+
+On all devices in the navigations menu visitor will find a link to **Gallery** page where he/she can find photos of the product and places the product is served.
+
+Photos and other media are also available on "Lawendowe Pole " Facebook and Instagram accounts.
+
+A muted video used as a gif will be available in the **About** section. 
+>9. I want to enjoy the design of the website and the content.
+
+A visitor will find an easily navigated website, with an intuitive way to find the content. Colours and fonts, images and video used in this project also were chosen for a better visual experience.
 # Deployment
 
 ### This website was developed using GitPod and VSCode, with repository hosted on GitHub.
@@ -469,7 +504,7 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 ## Acknowledgements
 * My mentor, **_Maranatha Ilesanmi_** for advice,guidance and support on this project.
 * **_Daisy MC Girr_**(Code Institute student) for:
-  * webinar on Testing  and README example.
+  * webinar on Testing.
 * **_Jim Lynx_** for :
   * MS1 webinar and README example.
 * **Slack Community** - for feedback on my project.
