@@ -480,7 +480,6 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 
 # Credits
 
-
 ## Code
 
 * [Bootstrap library](https://getbootstrap.com/) - used to create a responsive design, creat navbar, an image carousel with captions and form.
@@ -497,9 +496,6 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
  
 * To learn how to centre horizontally and vertically video
   * [Stack-Overflow](https://stackoverflow.com/questions/42388989/bootstrap-4-center-vertical-and-horizontal-alignment)
-
- 
-
 
 ## Media
 
