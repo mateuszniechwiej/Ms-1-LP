@@ -10,7 +10,7 @@
 
 :page_facing_up: [GitHub repository](https://github.com/mateuszniechwiej/Ms-1-LP)
 
-### This website is built for Milestone Project 1("Code Institute") with HTML5, CSS3 and Bootstrap framework. The main goal of this project is that users will find an easy navigated, intuitive and well visual-designed website with all information about products, locations and all other services provided by the company.
+### This website is built for Milestone Project 1( "Code Institute") with HTML5, CSS3 and Bootstrap framework. The main goal of this project is that users will find easily navigated,and well visual-designed website with all information about products, locations and all other services provided by the company.
 
 # Table of Contest
 
@@ -36,6 +36,7 @@
   * [Colour Contrast](#Colour-Contrast)
   * [Functionality](#Functionality)
   * [Testing Users Stories](#Testing-Users-Stories)
+  * [Known issue](#Known-issue)
 
 * [Deployment](#Deployment)
     * [Project Initiation](#Project-Initiation)
@@ -50,11 +51,11 @@
 
 ## User Stories
 ###  As a first-time visitor :
-  1. I want to intuitively navigate through the website(with the main focus on mobile devices).
+  1. I want to intuitively navigate through the website(with the focus on mobile devices).
   2. I want to find information about the product and services the company offers.
   3. I want to find about the opening times in each location the product is offered. 
   4. I want to be able to locate the Cafe and the remaining ice-cream shops.
-  5. I want to know what facilities are available in each location (like parking, seat in/out, "is coffee/drinks available and other deserts?", "can I pay with a card?").
+  5. I want to know what facilities are available in each location (like parking, seat in/out, "is coffee available and other deserts?"; "can I pay with a card?").
   6. I want to view the current company **"Menu"**.
   7. I want to find reviews about this company on social media.
   8. I want to find photos or videos of the places and products.
@@ -109,16 +110,16 @@
 
 ## Existing Features:
 
-:large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and gallery) to help the user easily navigate through the content with a box shadow effect for a better visual experiences.
+:large_blue_circle: **Header** - with a navigation bar is located on the top of the pages (home, locations and gallery) to help the user easily navigate through the content with a box shadow effect for better visual experiences.
 
 * Logo brand located on the left side of the navigation bar on all pages with a homepage link for locations and gallery pages.
 
 * Navigation links are located:
 
-  * For desktop - next to the logo with a hover effect changing colours from #73185b (Dark purple) to #d6d3c1 (Ecru White from a colour palette used for this website) to let know the visitor knows that the link is clickable.
+  * For desktop - next to the logo with a hover effect changing colours from #73185b (dark purple) to #d6d3c1 (Ecru White from a colour palette used for this website) to let know the visitor knows that the link is clickable.
   * For mobile/tablet - a visitor will find a hamburger menu on the right side of navbar with navigation links collapse. Having the same hover effect.
 
-* Locations and social media links visible only on the desktop on the right side of the navigation bar with a hover effect same as to be found for menu links. In the header we can find three icons:
+* Locations and social media links visible only on the desktop on the right side of the navigation bar with a hover effect same as to be found for menu links. In the Header we can find three icons:
 
     * location icon - by clicking on this icon user is brought to google maps in a new tab where all 3 locations for the company (Café and the 2 remaining ice cream shops) will be displayed.
 
@@ -212,10 +213,10 @@
 
 # Testing
 ### This project is a static website using HTML, CSS and bootstrap framework.
-### The test is covering:
+### The test is covering
 1. Testing website responsiveness on devices from 280px width- elements should not overlap each other :white_check_mark:
 2. Css/Html validation :white_check_mark:
-3. Website performance and best practice :white_check_mark:
+3. Website performance and best practise :white_check_mark:
 4. Visual aspects of the website: fonts and colour contrast. :white_check_mark:
 5. Functionality -all links on each page working, Contact Form and layout :white_check_mark: 
 6. User stories test :white_check_mark:
@@ -324,9 +325,9 @@ Also, friends and family were asked to test this website and I did not receive a
 
   1. Navigation bar
    * In desktop view:
-     * Tested menu links: Home(underlined to inform the user on which currently page he is), About, Contact, Locations, Gallery and Menu  :white_check_mark:
+     * Tested menu links: Home (underlined to inform the user on which currently page he is), About, Contact, Locations, Gallery and Menu  :white_check_mark:
      * social media links:
-       * locations(to open google maps in new tab with all 3 places) :white_check_mark:
+       * locations(to open Google maps in new tab with all 3 places) :white_check_mark:
        * Facebook and Instagram :white_check_mark:
   * In mobile and tablet view:
      * Tested menu links: About, Contact, Locations, Gallery and Menu  :white_check_mark:
@@ -342,7 +343,7 @@ Also, friends and family were asked to test this website and I did not receive a
     * Image captions to *__not be displayed__* on the mobile portrait view :white_check_mark:
   3. About section:
    * In desktop view:
-     * About text displaying on the left and video gif on the right side :white_check_mark:
+     * About text displayed on the left and video gif on the right side :white_check_mark:
    * In mobile and tablet view:
      * About text displaying above video gif :white_check_mark:
   
@@ -351,8 +352,8 @@ Also, friends and family were asked to test this website and I did not receive a
 4. Contact Form:
    * All fields in the contact form are required to be filled in:
      1. Trying to send without name input (required is displayed) :white_check_mark: 
-     2. After putting name try to send and info to fill empty field in email box is showing. After typing only the text information about missing **@** is displaying  :white_check_mark:
-     3. Text area required after typing in a name and email(booking is pre-selected with an option to change for comments) :white_check_mark:
+     2. After putting name try to send and info to fill the empty field in email box is showing. After typing only the text information about missing **@** is displaying  :white_check_mark:
+     3. Text area required after typing in a name and email (booking is pre-selected with an option to change for comments) :white_check_mark:
      4. After filling in all required field press **send** and no issues recorded. :white_check_mark:
     * Links for email and phone in the contact section working :white_check_mark:
 5. Footer:
@@ -368,11 +369,11 @@ Also, friends and family were asked to test this website and I did not receive a
       * Facebook and Instagram :white_check_mark:
 * In mobile and tablet view:
     * By clicking the logo brand located on the left, the visitor is brought back to the homepage :white_check_mark:
-    * Tested menu links: about,contact,locations,gallery and menu  :white_check_mark:
+    * Tested menu links: Home, About, Contact, Locations, Gallery and Menu  :white_check_mark:
     * Navbar-toggler button functionality :white_check_mark:
-1. Three Locations sections:
+1. Three Location sections:
     * Get directions links tested :white_check_mark:
-    * scroll back to the top of the page button(used due to length of this page) tested :white_check_mark:
+    * scroll back to the top of the page button (used due to lenght of this page) tested :white_check_mark:
     * For mobile and tablet view photo with directions is located above opening hours and facilities and in desktop view next to each other :white_check_mark:
 2. Footer:
  * Social links test :white_check_mark:
@@ -382,9 +383,9 @@ Also, friends and family were asked to test this website and I did not receive a
 1. Navigation bar
 * In desktop view:
     * By clicking the logo brand located on the left, the visitor is brought back to the homepage :white_check_mark:
-    * Tested menu links: Home, About, Contact, Locations, Gallery(underlined to inform the user on which currently page he is) and Menu  :white_check_mark:
+    * Tested menu links: Home, About, Contact, Locations, Gallery (underlined to inform the user on which currently page he is) and Menu  :white_check_mark:
     * social media links:
-      * locations(to open google maps in new tab with all 3 places) :white_check_mark:
+      * location(to open Google maps in new tab with all 3 places) :white_check_mark:
       * Facebook and Instagram :white_check_mark:
 * In mobile and tablet view:
     * By clicking the logo brand located on the left, the visitor is brought back to the homepage :white_check_mark:
@@ -392,17 +393,17 @@ Also, friends and family were asked to test this website and I did not receive a
     * Navbar-toggler button functionality :white_check_mark:
 1. Images layout:
 * For mobiles - 1 photo in a row :white_check_mark:
-* For tablets  - 2 photo in a row :white_check_mark:
+* For tablets  - 2 photos in a row :white_check_mark:
 * For desktops - 4 photos in a row :white_check_mark:
 No layout issues :white_check_mark:
-* scroll back to the top of the page button(used due to length of this page) tested :white_check_mark:
+* scroll back to the top of the page button (used due to length of this page) tested :white_check_mark:
 3. Footer: 
 * Social links test :white_check_mark:
 ## Testing Users Stories
 ### First-time visitor stories:
->1. I want to intuitively navigate through the website(with the main focus on mobile(looking for food-related places happens often on the route).
+>1. I want to intuitively navigate through the website(with the focus on mobile (looking for food-related places tend to happen on the route).
 
- The website was designed with a Mobile-first approach. All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with current page menu link underlined for more clarity. For longer Pages(Locations and Gallery) visitor will find "Back to the Top" button for better navigation experience.
+ The website was designed with a Mobile-first approach. All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with the current page menu link underlined for more clarity. For longer Pages (Locations and Gallery) visitor will find "Back to the Top" button for better navigation experience.
  >2. I want to find information about the product and services the company offers.
 
  On the Homepage visitor will find Image carousel with captions to give information about the products.
@@ -413,30 +414,30 @@ On all devices in the navigation menu visitor will find a link to **Locations** 
 From the navigation bar on every page visitor will be able to be directed to **Contact us** section where he can find a contact form and links to company email and telephone. 
 >4. I want to be able to locate the Cafe and the remaining ice-cream shops.
 
-On all devices in the navigations menu visitor will find a link to **Locations** page where he/she can find __directions__ link icon opening google maps in a new tab with the exact location of place he/she is interested to go. (Available on all pages).
+On all devices in the navigation menu visitor will find a link to **Locations** page where he/she can find __directions__ link icon-opening Google maps in a new tab with the exact location of place he/she is interested in going to. (Available on all pages).
 
 Also on desktop view visitor will find on the right side of the navigation bar a location icon. After clicking on that link google maps with all three locations will be opened in a new tab. (This option will be available on all Pages)
->5. I want to know what facilities are available in each location (like parking, seat in/out, "is coffee/drinks available and other deserts?", "can I pay with a card?").
+>5. I want to know what facilities are available in each location (like parking, seat in/out, "is coffee available and other deserts?"; "can I pay with a card?").
 
 A visitor will be able to find about the facilities on the **Locations** page.
 >6. I want to view the current company "Menu".
 
-On all devices in the navigations bar visitor will find a link to **_MENU_** opening in a new tab in a pdf file.
+On all devices in the navigation bar visitor will find a link to **_MENU_** opening in a new tab in a pdf file.
 >7. I want to find reviews about this company on social media.
 
-For all devices visitor will find social icons in the footer linked to existing social media accounts and trip advisor information about this place.
+For all devices visitors will find social icons in the footer linked to existing social media accounts and trip advisor information about this place.
 
 Additionally in desktop view on the right side of the navbar visitor will find social media links to Facebook and Instagram.
 >8. I want to find photos or videos of the places and products.
 
-On all devices in the navigations menu visitor will find a link to the **Gallery** page where he/she can find photos of the product and places the product is served.
+On all devices in the navigation menu visitor will find a link to the **Gallery** page where he/she can find photos of the product and places the product is served.
 
 Photos and other media are also available on "Lawendowe Pole " Facebook and Instagram accounts.
 
 A muted video used as a gif will be available in the **About** section. 
 >9. I want to enjoy the design of the website and the content.
 
-A visitor will find an easily navigated website, with an intuitive way to find the content. Colours, fonts and images and video used in this project also were chosen for a better visual experience.
+A visitor will find an easily navigated website, with an intuitive way to find the content. Colours, fonts and images and video used in this project were also chosen for a better visual experience.
 ### Returning visitor stories:
 >1. I want to find contact information.
 >2. I want to find directions to the Café and the remaining ice-cream shops.
@@ -446,7 +447,10 @@ A returning visitor will still find information about opening times, contact det
 >4. I want to see new images or videos of the places and product.
 
 A returning visitor will find new photos in gallery page and video gif updated upon owners request on the homepage. 
- 
+## Known issue
+
+On mobiles and tablets button "Back to Top" after clicking is staying in hover effect(colour change unless website refreshed)This bug doesn't have negative feedback from users who tested this website.
+
 # Deployment
 
 ### This website was developed using GitPod and VSCode, with repository hosted on GitHub.
@@ -459,12 +463,12 @@ A returning visitor will find new photos in gallery page and video gif updated u
 4. Choose [Code Institute Temple](https://github.com/Code-Institute-Org/gitpod-full-template)
 5. Give **Repository** a name and description
 6. Press **Create repository**.
-7. Finally clicked on **Gitpod** button in the newly created repository to start working on this project.
+7. Finally click on **Gitpod** button in the newly created repository to start working on this project.
 
 ## GitHub Pages
 This website was published using [GitHub Pages](https://pages.github.com/) by:
 1. Navigating to the GitHub [Repository](https://github.com/mateuszniechwiej/Ms-1-LP)
-2. Under the name of this project,there is a navigation bar - > Click on **Settings**.
+2. Under the name of this project, there is a navigation bar - > Click on **Settings**.
 3. Scroll down to the GitHub Pages Heading.
 4. Under the _Source_ Choose **Branch: master*
 5. Click the _Save_ button.
@@ -511,8 +515,8 @@ This website was published using [GitHub Pages](https://pages.github.com/) by:
 * My mentor, **_Maranatha Ilesanmi_** for advice, guidance and support on this project.
 * **_Daisy Mc Girr_**(Code Institute student) for:
   * webinar on Testing.
-* **_Jim Lynx_** for :
-  * MS1 webinar and README example.
+* **_Jim Lynx_** (Code Institute student) for:
+  * MS1 webinar 
 * **Slack Community** - for feedback on my project.
 * **My friends and family** - for giving feedback on my project and testing this website.
 
