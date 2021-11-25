@@ -53,18 +53,22 @@
 
 .lp-carusel-caption {
     margin:20%;
+    padding:5px;
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 .lp-carusel-caption h2 {
     font-family: 'Open Sans', 'sans-serif';
     font-weight: 500;
-    color: #bf3b9c;
-    background-color: rgba(0,0,0,0.3) 
+    color: #73185b;
+    margin-top: 5px;    
 }
 
 .lp-carusel-caption p {
     font-family: 'Libre Baskerville', sans-serif;
     font-weight: 500;
+    color: #000;
+    margin-bottom: 5px;
 }
 
 /*--------------------------------About*/
@@ -110,13 +114,12 @@
 }
 
 .lp-contact legend {
-    text-align: center;    
+    text-align: center;
+    margin-bottom: 15px;    
 }
 
 .lp-contact legend span {
-    border:1px solid #000;
-    padding:8px;
-    border-radius: 3%;
+    padding:8px;   
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-size: 24px;
@@ -124,8 +127,6 @@
 
 .lp-group span {
     padding: 5px;
-    border:1px solid #000;
-    border-radius: 3%;
     font-family:'Libre Baskerville', sans-serif;
     font-weight: 400;
 }
@@ -249,6 +250,12 @@
 .lp-arrow i {
     font-size: 3rem;
     color: #73185b;
-}.lp-arrow i:hover {
+}
+
+.lp-arrow i:hover {
     color: #bf3b9c;
+}
+
+.lp-btn--back {
+    background-color: #3bbfbf;
 }
